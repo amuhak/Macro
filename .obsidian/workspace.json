@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocab.md",
+                "file": "Unit 1/Economics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocab.md",
+                "file": "Unit 1/Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocab.md",
+                "file": "Unit 1/Economics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocab.md"
+                "file": "Unit 1/Economics.md"
               }
             }
           }
@@ -148,8 +149,9 @@
   },
   "active": "f4663a34f53bc6ff",
   "lastOpenFiles": [
+    "Unit 1/Vocab.md",
     "Unit 1/Economics.md",
-    "Vocab.md",
+    "",
     "Unit 1"
   ]
 }
