@@ -28,3 +28,9 @@ An activity performed for a fee
 ## Cost
 **TINSTAAFL** -- "There is no such thing as a free lunch."
 (Everything has a cost)
+
+### Trade Off
+Everything you give up by making a choice.
+
+### Opportunity Cost
+The value of the next best alternative that had to be given up for the alternative that was chosen.
