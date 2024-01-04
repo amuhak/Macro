@@ -40,6 +40,6 @@ Cost-benefit analysis --- weighing pros & cons
 
 # Production Possibilities Curve (Frontier)
 Used to show the trade-offs associated with allocating scarce resources.
-
+The PPC is a model (graph) used to show the trade-offs  associated with allocating scarce resources
 <iframe src="https://www.desmos.com/calculator/yeivvcyagh?embed" width="777" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
