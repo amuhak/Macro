@@ -34,3 +34,9 @@ Everything you give up by making a choice.
 
 ### Opportunity Cost
 The value of the next best alternative that had to be given up for the alternative that was chosen.
+
+### How do people decide what to do?
+Cost-benefit analysis --- weighing pros & cons
+
+# Production Possibilities Curve (Frontier)
+Used to show the trade-offs associated with allocating scarce resources.
