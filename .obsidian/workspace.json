@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce4028ae2f939682",
+        "id": "f8dce9e7027dadfa",
         "type": "tabs",
         "children": [
           {
-            "id": "9202230c4e26d581",
+            "id": "d5d10dc978878ebb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -144,14 +144,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "9202230c4e26d581",
+  "active": "d5d10dc978878ebb",
   "lastOpenFiles": [
-    "Unit 1/Marginal Cost.md",
-    "Unit 1/Vocab.md",
+    "PPC shifting outward.png",
+    "Unit 1/pics/Decreasing Opportunity Costs.png",
     "Unit 1/Economics.md",
+    "Unit 1/Marginal Cost.md",
+    "Pdfs/Unit 1/Marginal Cost.pdf",
+    "Pdfs/Unit 1/Economics.pdf",
+    "Unit 1/Vocab.md",
+    "Untitled.md",
+    "Pdfs/Unit 1",
+    "Pdfs",
+    "Unit 1/pics",
+    "Unit 1/pics/Increasing Opportunity Costs.png",
     "",
     "Unit 1"
   ]

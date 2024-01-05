@@ -6,7 +6,9 @@
         "Shift"
       ],
       "key": "P"
-    },
+    }
+  ],
+  "workspace:export-pdf": [
     {
       "modifiers": [
         "Mod"

@@ -48,4 +48,21 @@ The PPC is a model (graph) used to show the trade-offs  associated with allocati
 
 **Law of Increasing Opportunity Costs**: As more and more of a good are produced it takes more away from the other because the resources are not easily converted.
 
-**Decreasing Opportunity Costs**: The opportunity cost of producing a product decreases.
+<iframe src="https://www.desmos.com/calculator/9pkeskplrj?embed" width="466.2" height="300" style="border: 1px solid #ccc" frameborder=0></iframe>
+
+**Decreasing Opportunity Costs**: The opportunity cost of producing a product decreases. This is often associated with increased technology that is gained in other areas.
+
+![[Decreasing Opportunity Costs.png|300]]
+
+If you are moving along the curve, then to increases the production of one resources you must decrease the production of another. 
+
+| Location on the curve | Meaning |
+| ---- | ---- |
+| On the curve | EFFICIENT level of production |
+| Inside  | INEFFICIENT level of production |
+| Outside | Impossible / Unsatiable  |
+
+If a nation’s ability to produce capital goods and consumer goods if it has new technology and more workers the PPC will shift outward and to the right. (Economic growth) 
+![[PPC shifting outward.png|400]]
+
+The opposite would be, 
