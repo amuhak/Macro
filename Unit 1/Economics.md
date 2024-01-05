@@ -40,6 +40,12 @@ Cost-benefit analysis --- weighing pros & cons
 
 # Production Possibilities Curve (Frontier)
 Used to show the trade-offs associated with allocating scarce resources.
-The PPC is a model (graph) used to show the trade-offs  associated with allocating scarce resources
-<iframe src="https://www.desmos.com/calculator/yeivvcyagh?embed" width="777" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+The PPC is a model (graph) used to show the trade-offs  associated with allocating scarce resources.
 
+**Constant Opportunity Costs**: The opportunity cost of producing another unit of a product does not change.
+<iframe src="https://www.desmos.com/calculator/yeivvcyagh?embed" width="466.2" height="300" style="border: 1px solid #ccc" frameborder=0></iframe>
+
+
+**Law of Increasing Opportunity Costs**: As more and more of a good are produced it takes more away from the other because the resources are not easily converted.
+
+**Decreasing Opportunity Costs**: The opportunity cost of producing a product decreases.
