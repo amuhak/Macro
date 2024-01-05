@@ -54,15 +54,23 @@ The PPC is a model (graph) used to show the trade-offs  associated with allocati
 
 ![[Decreasing Opportunity Costs.png|300]]
 
-If you are moving along the curve, then to increases the production of one resources you must decrease the production of another. 
+If you are moving along the curve, then to increases the production of one resources you must decrease the production of another.
 
 | Location on the curve | Meaning |
 | ---- | ---- |
 | On the curve | EFFICIENT level of production |
 | Inside  | INEFFICIENT level of production |
 | Outside | Impossible / Unsatiable  |
-
+## PPC Shift
+### Increased Production
 If a nation’s ability to produce capital goods and consumer goods if it has new technology and more workers the PPC will shift outward and to the right. (Economic growth) 
+#### Causes:
+- 
+
 ![[PPC shifting outward.png|400]]
 
-The opposite would be, 
+### Decreased Production
+#### Causes:
+- 
+
+![[PC shifting inwards.png|400]]
