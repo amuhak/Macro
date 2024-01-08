@@ -43,7 +43,7 @@ The value of the next best alternative that had to be given up for the alternati
 Cost-benefit analysis --- weighing pros & cons
 
 # Production Possibilities Curve (Frontier)
-Used to show the trade-offs associated with allocating scarce resources.
+Used to show the trade-offs associated with allocating scarce resources. 
 The PPC is a model (graph) used to show the trade-offs  associated with allocating scarce resources.
 
 ## **Constant Opportunity Costs**
