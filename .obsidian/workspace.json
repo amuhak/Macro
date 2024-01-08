@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f8dce9e7027dadfa",
+        "id": "b048a67703e784e2",
         "type": "tabs",
         "children": [
           {
-            "id": "d5d10dc978878ebb",
+            "id": "bf5191a6a672743a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Unit 1/Economics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a8d34231af6103b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 1/Vocab.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -148,16 +159,19 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d5d10dc978878ebb",
+  "active": "bf5191a6a672743a",
   "lastOpenFiles": [
-    "PC shifting inwards.png",
-    "PPC shifting outward.png",
-    "Unit 1/pics/Decreasing Opportunity Costs.png",
+    "Unit 1/Vocab.md",
     "Unit 1/Economics.md",
     "Unit 1/Marginal Cost.md",
+    "Unit 1/pics/Constant Opportunity Cost.png",
+    "Unit 1/pics/Increasing Opportunity Cost.png",
+    "Unit 1/pics/Decreasing Opportunity Cost.png",
+    "Unit 1/pics/PC shifting inwards.png",
+    "Unit 1/pics/PPC shifting outward.png",
+    "Unit 1/pics/Decreasing Opportunity Costs.png",
     "Pdfs/Unit 1/Marginal Cost.pdf",
     "Pdfs/Unit 1/Economics.pdf",
-    "Unit 1/Vocab.md",
     "Untitled.md",
     "Pdfs/Unit 1",
     "Pdfs",
