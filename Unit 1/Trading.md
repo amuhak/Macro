@@ -4,5 +4,19 @@ $$
 \text{Item received} > \text{Item given away}
 $$
 Usually made easier through the use of money.
+Basically, trading settling problems in allocation strategies.
 
-2
+## Output problems
+---
+Output problems state that you get a certain amount of product out of a given input.
+
+## Input problems
+---
+Input problems state that it takes a certain amount of input to get a given product.
+
+# Absolute Advantage
+### For output problems: 
+You look at if one nation (individual/company) can produce more output with the same resources as the other.
+
+### For Input Problem:
+You look at who uses the least amount of input to get the output.

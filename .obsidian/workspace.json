@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -150,9 +149,9 @@
   },
   "active": "bf5191a6a672743a",
   "lastOpenFiles": [
+    "Unit 1/Marginal Cost.md",
     "Unit 1/Economics.md",
     "Unit 1/Trading.md",
-    "Unit 1/Marginal Cost.md",
     "Unit 1/Vocab.md",
     "Unit 1/pics/Constant Opportunity Cost.png",
     "Unit 1/pics/Increasing Opportunity Cost.png",
