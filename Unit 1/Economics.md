@@ -65,12 +65,14 @@ If you are moving along the curve, then to increases the production of one resou
 ### Increased Production
 If a nation’s ability to produce capital goods and consumer goods if it has new technology and more workers the PPC will shift outward and to the right. (Economic growth) 
 #### Causes:
-- 
+- More resources
+- Better production techniques
 
 ![[PPC shifting outward.png|400]]
 
 ### Decreased Production
 #### Causes:
-- 
+- Fewer resources
+- Not using better or innovative production techniques
 
 ![[PC shifting inwards.png|400]]
