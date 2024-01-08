@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a435fb4fd0f5292e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 1/Economics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 1/Trading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 1/Trading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas.md"
+                "file": "Unit 1/Trading.md"
               }
             }
           }
@@ -172,11 +160,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "345a43c202915b1b",
+  "active": "bf5191a6a672743a",
   "lastOpenFiles": [
     "Unit 1/Trading.md",
-    "Formulas.md",
+    "Pdfs/Unit 1/Trading.pdf",
     "Unit 1/Economics.md",
+    "Formulas.md",
     "Unit 1/Marginal Cost.md",
     "Unit 1/Vocab.md",
     "Unit 1/pics/Constant Opportunity Cost.png",

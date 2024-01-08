@@ -36,7 +36,7 @@ Everything you give up by making a choice.
 
 ### Opportunity Cost
 ---
-The value of the next best alternative that had to be given up for the alternative that was chosen.
+The value of the next best alternative that had to be given up for the alternative that was chosen. [[Formulas#Opportunity Cost|Formula]]
 
 ### How do people decide what to do?
 ---
