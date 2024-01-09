@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c2898f4295111167",
+        "id": "7a1825987a1b4c59",
         "type": "tabs",
         "children": [
           {
-            "id": "6b31038e0bf58c4b",
+            "id": "b051cba0239f4d0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 1/Trading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1036c7496af14076",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 1/Marginal Cost.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 1/Trading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 1/Trading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Unit 1/Trading.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,11 +139,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "6b31038e0bf58c4b",
+  "active": "b051cba0239f4d0a",
   "lastOpenFiles": [
+    "Unit 1/Trading.md",
     "Formulas.md",
     "Unit 1/Economics.md",
-    "Unit 1/Trading.md",
     "Unit 1/Marginal Cost.md",
     "Unit 1/Vocab.md",
     "Pdfs/Unit 1/Trading.pdf",
