@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "638be408a092d091",
-        "type": "tabs",
-        "dimension": 29.359430604982208,
-        "children": [
-          {
-            "id": "39e31f4431f5bb6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formulas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c2898f4295111167",
         "type": "tabs",
-        "dimension": 70.64056939501779,
         "children": [
           {
             "id": "6b31038e0bf58c4b",

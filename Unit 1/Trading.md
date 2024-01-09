@@ -26,9 +26,10 @@ An individual, business, or country can produce a good or service at a lower [[E
 Opportunity Cost will always be expressed in the **good** not the input.
 One actor cant have the comparative advantage in both situations.  
 
+| advantage | Coffee | Wheat |
+| ---- | ---- | ---- |
+|abs |USA|     USA|
+| comp |Brazill | USA|
 
-Aaron        Aaron
-Aaron       Xian Ling
 
-Germany   --------
-Germany   France
+
