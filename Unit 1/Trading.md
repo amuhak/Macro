@@ -24,3 +24,4 @@ You look at who uses the least amount of input to get the output.
 ## Comparative Advantage
 An individual, business, or country can produce a good or service at a lower [[Economics#Opportunity Cost|Opportunity Cost]] than another producer.
 Opportunity Cost will always be expressed in the **good** not the input.
+One actor cant have the comparative advantage in both sicuwations 
