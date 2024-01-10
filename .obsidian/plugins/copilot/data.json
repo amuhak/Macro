@@ -9,6 +9,7 @@
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
   "googleApiKey": "",
+  "defaultModel": "gpt-4-1106-preview",
   "defaultModelDisplayName": "LocalAI",
   "temperature": 0.7,
   "maxTokens": 1000,
@@ -16,9 +17,9 @@
   "userSystemPrompt": "",
   "openAIProxyBaseUrl": "http://localhost:8080/v1",
   "localAIModel": "phi-2",
-  "ttlDays": 5,
+  "ttlDays": 30,
   "stream": true,
   "embeddingProvider": "localai",
   "defaultSaveFolder": "copilot-conversations",
-  "debug": false
+  "debug": true
 }

@@ -16,7 +16,7 @@ Productive resources are used to produce goods and services.
 ----
 Useful, tangible items that satisfy needs/wants
 #### Consumer Goods
-<u>Final intended use</u>: Used by the consumers.
+<u>Final intended use</u>: Used by the consumers. 
 
 #### Capital Goods
 <u>Final intended use</u>: Used to create to produce other goods.
