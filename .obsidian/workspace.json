@@ -121,7 +121,15 @@
             }
           },
           {
-            "id": "6068665d57ae8009",
+            "id": "09e3d5af315bc590",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "40433ded7e792b87",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -129,17 +137,9 @@
                 "file": "Unit 1/Economics.md"
               }
             }
-          },
-          {
-            "id": "1b66887033e021ba",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -157,7 +157,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "1b66887033e021ba",
+  "active": "09e3d5af315bc590",
   "lastOpenFiles": [
     "Unit 1/Vocab.md",
     "Unit 1/Trading.md",
