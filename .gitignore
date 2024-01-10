@@ -5,3 +5,5 @@
 .obsidian/community-plugins.json
 .obsidian/graph.json
 .obsidian/workspace.json
+./.obsidian/plugins/*
+./.obsidian/plugins/
