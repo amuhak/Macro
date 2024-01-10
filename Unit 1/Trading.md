@@ -26,10 +26,10 @@ An individual, business, or country can produce a good or service at a lower [[E
 Opportunity Cost will always be expressed in the **good** not the input.
 One actor cant have the comparative advantage in both situations.  
 
-| advantage | Coffee | Wheat |
-| ---- | ---- | ---- |
-|abs |USA|     USA|
-| comp |Brazill | USA|
+# Terms of Trade
+The rate by which one unit of a good or service is traded for another unit of a good or service.
+The Terms of Trade will only be beneficial to both producers if the exchange rate falls between both of their opportunity cost.
 
-
-
+## Finding Mutually Beneficial Terms of Trade
+1. Calculate the opportunity costs and identify which nations have the comparative advatage.
+	1. A nation which has compar
