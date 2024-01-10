@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 1/Vocab.md",
+                "file": "Unit 1/Economics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 1/Vocab.md",
+                "file": "Unit 1/Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 1/Vocab.md",
+                "file": "Unit 1/Economics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +126,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 1/Vocab.md"
+                "file": "Unit 1/Economics.md"
               }
             }
+          },
+          {
+            "id": "1b66887033e021ba",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,16 +153,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "b051cba0239f4d0a",
+  "active": "1b66887033e021ba",
   "lastOpenFiles": [
-    "Unit 1/Trading.md",
-    "Formulas.md",
-    "Unit 1/Economics.md",
-    "Unit 1/Marginal Cost.md",
     "Unit 1/Vocab.md",
+    "Unit 1/Trading.md",
+    "Unit 1/Marginal Cost.md",
+    "Unit 1/Economics.md",
+    "Formulas.md",
     "Pdfs/Unit 1/Trading.pdf",
     "Unit 1/pics/Constant Opportunity Cost.png",
     "Unit 1/pics/Increasing Opportunity Cost.png",

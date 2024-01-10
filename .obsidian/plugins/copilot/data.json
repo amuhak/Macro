@@ -14,11 +14,11 @@
   "maxTokens": 1000,
   "contextTurns": 3,
   "userSystemPrompt": "",
-  "openAIProxyBaseUrl": "",
-  "localAIModel": "",
-  "ttlDays": 30,
+  "openAIProxyBaseUrl": "http://localhost:8080/v1",
+  "localAIModel": "phi-2",
+  "ttlDays": 5,
   "stream": true,
-  "embeddingProvider": "openai",
+  "embeddingProvider": "localai",
   "defaultSaveFolder": "copilot-conversations",
   "debug": false
 }
