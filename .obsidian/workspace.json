@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 1/Trading.md",
+                "file": "Unit 1/Vocab.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 1/Vocab.md",
+                "file": "Unit 1/Trading.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +169,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "b051cba0239f4d0a",
+  "active": "6e53273e0b5f82ad",
   "lastOpenFiles": [
     "Unit 1/Vocab.md",
     "Unit 1/Trading.md",

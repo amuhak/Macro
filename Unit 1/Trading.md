@@ -31,5 +31,11 @@ The rate by which one unit of a good or service is traded for another unit of a 
 The Terms of Trade will only be beneficial to both producers if the exchange rate falls between both of their opportunity cost.
 
 ## Finding Mutually Beneficial Terms of Trade
-1. Calculate the opportunity costs and identify which nations have the comparative advatage.
-	1. A nation which has compar
+1. Calculate the opportunity costs and identify which nations have the comparative advantage.
+	1. A nation which has comparative advantage in something should specialize in that something. 
+2. Pick a good in which the opportunity costs of both are whole numbers
+3. Mutually Beneficial Terms of Trade will be between the 2 opportunity costs.
+
+# Consumption Possibilities
+- Combinations of goods and services that could be consumed. 
+- People in the nations have greater access to the two goods than they did before. 
