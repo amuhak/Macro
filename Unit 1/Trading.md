@@ -38,4 +38,4 @@ The Terms of Trade will only be beneficial to both producers if the exchange rat
 
 # Consumption Possibilities
 - Combinations of goods and services that could be consumed. 
-- People in the nations have greater access to the two goods than they did before. 
+- People in the nations have greater access to the two goods than they did before. ![[Consumption Possibilities.png]]
