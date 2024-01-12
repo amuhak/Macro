@@ -32,7 +32,7 @@ An activity performed for a fee
 
 ### Trade Off
 ---
-Everything you give up by making a choice.
+By making a choice.
 
 ### Opportunity Cost
 ---
