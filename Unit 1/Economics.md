@@ -32,7 +32,7 @@ An activity performed for a fee
 
 ### Trade Off
 ---
-By making a choice.
+By making a choice, you give something up.
 
 ### Opportunity Cost
 ---
@@ -46,7 +46,7 @@ Cost-benefit analysis --- weighing pros & cons
 Used to show the trade-offs associated with allocating scarce resources. 
 The PPC is a model (graph) used to show the trade-offs  associated with allocating scarce resources.
 
-## **Constant Opportunity Costs**
+## Constant Opportunity Costs
 ---
 The opportunity cost of producing another unit of a product does not change.
 
@@ -67,7 +67,7 @@ If you are moving along the curve, then to increases the production of one resou
 | ---- | ---- |
 | On the curve | Efficient level of production |
 | Inside  | Inefficient level of production |
-| Outside | Impossible / Unsatiable  |
+| Outside | Impossible / Unsustainable   |
 ## PPC Shift
 ### Increased Production
 ---
