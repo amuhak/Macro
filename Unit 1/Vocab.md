@@ -9,4 +9,5 @@
 | Consumption Possibilities | Combinations of goods and services that could be consumed. |
 | Demand | How much consumers wants a good based on price. |
 | Utility | The satisfaction one receives from consuming a good or service. |
-
+| Quantity Demanded | The amount of a good, service, or resource buyers are willing and able to buy at <u>one specific price</u>. |
+| Supply | How much businesses are willing to sell at certain prices. |

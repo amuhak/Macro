@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 1/Vocab.md",
+                "file": "Unit 1/Supply and Demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 1/Vocab.md",
+                "file": "Unit 1/Supply and Demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 1/Vocab.md"
+                "file": "Unit 1/Supply and Demand.md"
               }
             }
           }
@@ -169,10 +170,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "b91b627e078f7608",
+  "active": "c8e037151e6b9513",
   "lastOpenFiles": [
-    "Unit 1/Supply and Demand.md",
     "Unit 1/Vocab.md",
+    "Unit 1/Supply and Demand.md",
     "Unit 1/Economics.md",
     "Pdfs/Unit 1/Vocab.pdf",
     "Unit 1/Trading.md",
