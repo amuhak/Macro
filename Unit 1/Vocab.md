@@ -8,4 +8,5 @@
 | Terms of Trade | The rate by which one unit of a good or service is traded for another unit of a good or service. |
 | Consumption Possibilities | Combinations of goods and services that could be consumed. |
 | Demand | How much consumers wants a good based on price. |
+| Utility | The satisfaction one receives from consuming a good or service. |
 
