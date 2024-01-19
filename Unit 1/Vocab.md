@@ -1,3 +1,4 @@
+
 | Word | Meaning |
 | :--: | ---- |
 | Economics | The study of how individuals and nations make choices about how to use scarce resources to fulfill their needs and unlimited wants. |
@@ -5,5 +6,6 @@
 | Resource | Things used to produce goods & services |
 | Marginal Cost | Most decisions we make are not all-or-nothing. |
 | Terms of Trade | The rate by which one unit of a good or service is traded for another unit of a good or service. |
-| Consumption Possibilities | Combinations of goods and services that could be consumed.  |
+| Consumption Possibilities | Combinations of goods and services that could be consumed. |
+| Demand | How much consumers wants a good based on price. |
 
