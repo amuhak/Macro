@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 1/Supply and Demand.md",
+                "file": "Unit 1/Vocab.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 1/Supply and Demand.md",
+                "file": "Unit 1/Vocab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 1/Supply and Demand.md",
+                "file": "Unit 1/Vocab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 1/Supply and Demand.md"
+                "file": "Unit 1/Vocab.md"
               }
             }
           }
@@ -183,14 +183,17 @@
   },
   "active": "0f12b2d4f87c053e",
   "lastOpenFiles": [
-    "Untitled_upscayl_4x_realesrgan-x4plus.png",
-    "Unit 1/Economics.md",
-    "Unit 1/Supply and Demand.md",
-    "Formulas.md",
+    "Pdfs/Unit 1/Vocab.pdf",
     "Unit 1/Trading.md",
+    "Unit 1/Supply and Demand.md",
+    "Unit 1/Marginal Cost.md",
+    "Unit 1/Economics.md",
+    "Pdfs/Unit 1/Supply and Demand.pdf",
+    "Unit 1/pics/Supply and Demand.png",
+    "Untitled_upscayl_4x_realesrgan-x4plus.png",
+    "Formulas.md",
     "Unit 1/Vocab.md",
     "Consumption Possibilities.png",
-    "Unit 1/Marginal Cost.md",
     "Pdfs/Unit 1/Trading.pdf",
     "Unit 1/pics/Constant Opportunity Cost.png",
     "Unit 1/pics/Increasing Opportunity Cost.png",
