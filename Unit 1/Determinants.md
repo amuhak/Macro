@@ -20,22 +20,24 @@ Income is directly proportional to amount of Normal Goods bought.
 Knock-Offs
 Income is inversely proportional to amount of Inferior Goods bought.
 ## Preference
-
-
+Preferences increase, demand increases
+Preferences decrease, demand decreases 
 ## Expectations
-
-
-## Expectations
-
-
+Expect higher prices in future, current demand increases
+Expect lower prices in future, current demand decreases 
 ## Numbers of buyers
-
-
+(Population)
+Directly proportional 
 # Supply
 ---
 GRENT
 ## Government
-
+### Taxes
+Taxes increase, supply decreases; taxes decrease, supply increases
+### Subsidies (opposite of a tax)
+subsidies increase, supply increase; subsidies decrease, supply decreases
+### Regulations
+regulations increase, supply decreases; regulations decrease, supply increases
 
 ## Resource cost
 
