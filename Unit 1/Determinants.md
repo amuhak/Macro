@@ -33,19 +33,16 @@ Directly proportional
 GRENT
 ## Government
 ### Taxes
-Taxes increase, supply decreases; taxes decrease, supply increases
+Inversely proportional
 ### Subsidies (opposite of a tax)
-subsidies increase, supply increase; subsidies decrease, supply decreases
+Directly proportional
 ### Regulations
-regulations increase, supply decreases; regulations decrease, supply increases
-
+Inversely proportional
 ## Resource cost
-
-
+If the price of resource increase, supply falls. (Inversely proportional)
 ## Expectations
-
-
+Expect to sell more they produce more. 
 ## Number of sellers
-
-
+Directly proportional
 ## Technology
+Directly proportional
