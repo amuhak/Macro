@@ -11,3 +11,4 @@
 | Utility | The satisfaction one receives from consuming a good or service. |
 | Quantity Demanded | The amount of a good, service, or resource buyers are willing and able to buy at <u>one specific price</u>. |
 | Supply | How much businesses are willing to sell at certain prices. |
+| Determinants | Something that affects supply and demand curves |
