@@ -53,3 +53,5 @@ Directly proportional
 Demand $\propto$ Price $\propto$ Quantity
 Supply $\propto$ Quantity
 Supply $\dfrac{1}{\propto}$ Price
+
+Double shift rule -- If both curves move, price or quantity will become indeterminant.
