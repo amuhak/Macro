@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Price Floor and ceil.md",
+                "file": "Unit 1/Price Floor and ceil.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Price Floor and ceil.md",
+                "file": "Unit 1/Price Floor and ceil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Price Floor and ceil.md",
+                "file": "Unit 1/Price Floor and ceil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Price Floor and ceil.md"
+                "file": "Unit 1/Price Floor and ceil.md"
               }
             }
           }
@@ -172,7 +172,8 @@
   "active": "81d2f2b6529fc759",
   "lastOpenFiles": [
     "Unit 1/Determinants.md",
-    "Price Floor and ceil.md",
+    "Unit 1/Price Floor and ceil.md",
+    "Pdfs/Unit 1/Price Floor and ceil.pdf",
     "Unit 1/Vocab.md",
     "Pdfs/Unit 1/Determinants.pdf",
     "Unit 1/Supply and Demand.md",
@@ -197,7 +198,6 @@
     "Pdfs/Unit 1",
     "Pdfs",
     "Unit 1/pics",
-    "Unit 1/pics/Increasing Opportunity Costs.png",
-    ""
+    "Unit 1/pics/Increasing Opportunity Costs.png"
   ]
 }
