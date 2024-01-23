@@ -46,3 +46,10 @@ Expect to sell more they produce more.
 Directly proportional
 ## Technology
 Directly proportional
+
+Temp
+---
+
+| Demand | Decrease |
+| ---- | ---- |
+| Price | Quantity |

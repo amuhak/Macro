@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15aecbd9e15aeec6",
+        "id": "47c8f0f4f8160ce4",
         "type": "tabs",
         "children": [
           {
-            "id": "48cbb474ff4bcc0c",
+            "id": "9198244bbe140f0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Unit 1/Determinants.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6f4e6951ee9acef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 1/Vocab.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -169,11 +156,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "48cbb474ff4bcc0c",
+  "active": "9198244bbe140f0b",
   "lastOpenFiles": [
-    "Pdfs/Unit 1/Determinants.pdf",
     "Unit 1/Vocab.md",
     "Unit 1/Determinants.md",
+    "Pdfs/Unit 1/Determinants.pdf",
     "Unit 1/Supply and Demand.md",
     "Unit 1/Economics.md",
     "Pdfs/Unit 1/Vocab.pdf",
@@ -197,7 +184,6 @@
     "Pdfs",
     "Unit 1/pics",
     "Unit 1/pics/Increasing Opportunity Costs.png",
-    "",
-    "Unit 1"
+    ""
   ]
 }
