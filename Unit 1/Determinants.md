@@ -47,9 +47,9 @@ Directly proportional
 ## Technology
 Directly proportional
 
-Temp
+# Markets in motion 
 ---
 
-| Demand | Decrease |
-| ---- | ---- |
-| Price | Quantity |
+Demand $\propto$ Price $\propto$ Quantity
+Supply $\propto$ Quantity
+Supply $\dfrac{1}{\propto}$ Price
