@@ -12,3 +12,5 @@
 | Quantity Demanded | The amount of a good, service, or resource buyers are willing and able to buy at <u>one specific price</u>. |
 | Supply | How much businesses are willing to sell at certain prices. |
 | Determinants | Something that affects supply and demand curves |
+| Factor Market | Where the factors of production are exchanged for money |
+| Product Market | Where goods and services are exchanged for money |
