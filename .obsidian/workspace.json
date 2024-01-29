@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7f2b9bd1da179cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9fceec5aa833d904",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
