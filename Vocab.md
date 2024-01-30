@@ -14,3 +14,4 @@
 | Determinants | Something that affects supply and demand curves |
 | Factor Market | Where the factors of production are exchanged for money |
 | Product Market | Where goods and services are exchanged for money |
+| Macroeconomics | Study of the national economy |
