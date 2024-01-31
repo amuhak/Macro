@@ -12,3 +12,6 @@ $\text{Qd} - \text{Qs} = \text{Size of shortage}$
 ### Price Floor
 $\text{Qs} - \text{Qd} = \text{Size of surplus}$
 
+# Unit 2
+## GDP
+$\text{GDP} = (\text{Real GDP} \cdot \text{GDP Deflator})/100$
