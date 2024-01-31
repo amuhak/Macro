@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 2/Circular Flow.md",
+                "file": "Unit 2/GDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 2/Circular Flow.md",
+                "file": "Unit 2/GDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 2/Circular Flow.md"
+                "file": "Unit 2/GDP.md"
               }
             }
           }
@@ -192,11 +194,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "aa738bc49d8b25ab",
+  "active": "7e8bca439608864b",
   "lastOpenFiles": [
+    "Unit 2/Circular Flow.md",
     "Unit 2/Economic Growth.md",
     "Unit 2/GDP.md",
-    "Unit 2/Circular Flow.md",
     "Unit 2/Economic.md",
     "Pdfs/Unit 2/Circular Flow.pdf",
     "Vocab.md",
