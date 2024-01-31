@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 2/Economic Growth.md",
+                "file": "Unit 2/Circular Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 2/Economic Growth.md",
+                "file": "Unit 2/Circular Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 2/Economic Growth.md"
+                "file": "Unit 2/Circular Flow.md"
               }
             }
           }
@@ -193,10 +192,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "6286fff4042eec46",
+  "active": "aa738bc49d8b25ab",
   "lastOpenFiles": [
-    "Unit 2/GDP.md",
     "Unit 2/Economic Growth.md",
+    "Unit 2/GDP.md",
     "Unit 2/Circular Flow.md",
     "Unit 2/Economic.md",
     "Pdfs/Unit 2/Circular Flow.pdf",
