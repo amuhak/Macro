@@ -43,10 +43,13 @@ All governmental spending. excluding transfer payments.
 $(\text{Exports} - \text{Imports})$
 The amount by which foreign spending on American goods and services exceeds American spending on foreign goods and services.
 
-# Not counted in GDP
+#### Not counted in GDP
 - Intermediate goods
 - Secondhand sales
 - Nonmarket transactions
 - Financial transactions
 - Underground transactions -- Sale of illegal items
 - Transfer payments/subsidies
+
+### Income Approach
+$$\text{Rent} + \text{Wages} + \text{Interest} + \text{Profits}$$
