@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa738bc49d8b25ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 2/Circular Flow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6286fff4042eec46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 2/Economic Growth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7e8bca439608864b",
             "type": "leaf",
             "state": {
@@ -67,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,11 +182,11 @@
   },
   "active": "7e8bca439608864b",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Formulas.md",
     "Unit 2/GDP.md",
+    "Untitled.md",
     "Untitled 1.md",
     "Unit 2/Economic Growth.md",
-    "Formulas.md",
     "Vocab.md",
     "Unit 2/Circular Flow.md",
     "Unit 2/Economic.md",

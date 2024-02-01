@@ -62,3 +62,4 @@ $$
 $$\dfrac{\text{GDP}}{\text{Population}}$$
 # Real GDP
 Nominal GDP adjusted for inflation.
+Look at [[Formulas#Unit 2|formulas]]
