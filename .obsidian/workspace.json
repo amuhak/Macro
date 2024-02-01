@@ -187,8 +187,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,7 +205,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7e8bca439608864b",
+  "active": "de48a7d2a02127f4",
   "lastOpenFiles": [
     "Unit 2/Economic Growth.md",
     "Unit 2/GDP.md",

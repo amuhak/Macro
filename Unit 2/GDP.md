@@ -9,7 +9,7 @@ Only goods produced within the country’s borders.
 - Income Approach
 - Value-Added Approach
 - (Real GDP x GDP Deflator)/100
-
+## Calculating GDP
 ### Expenditure Approach
 $$GDP = C + I + G + NX$$
 #### Consumer spending $(C)$
@@ -53,3 +53,9 @@ The amount by which foreign spending on American goods and services exceeds Amer
 
 ### Income Approach
 $$\text{Rent} + \text{Wages} + \text{Interest} + \text{Profits}$$
+### Value-Added Approach
+$$
+\sum^{n}_{i=0} \text{Value of input}
+$$
+
+## 
