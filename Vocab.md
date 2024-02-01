@@ -15,8 +15,8 @@
 | Factor Market | Where the factors of production are exchanged for money |
 | Product Market | Where goods and services are exchanged for money |
 | Macroeconomics | Study of the national economy |
-|  |  |
 | Dollar Value | Measured in terms of dollars and cents |
+|  |  |
 |  |  |
 |  |  |
 |  |  |
