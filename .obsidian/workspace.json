@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e8bca439608864b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 2/GDP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "02a937f33ea2dea4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 2/Employment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 2/Employment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 2/Employment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas.md"
+                "file": "Unit 2/Employment.md"
               }
             }
           }
@@ -171,9 +157,10 @@
   },
   "active": "02a937f33ea2dea4",
   "lastOpenFiles": [
+    "Formulas.md",
+    "Unit 2/Employment.md",
     "Unit 2/GDP.md",
     "Vocab.md",
-    "Formulas.md",
     "Untitled.md",
     "Untitled 1.md",
     "Unit 2/Economic Growth.md",
