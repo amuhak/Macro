@@ -11,3 +11,8 @@ Out of the labor force:
 - Active Military
 - Institutionalized
 - Not working/seeking work
+
+Look at [[Formulas#Unit 2#Unemployment Rate|Formulas]]
+
+Natural unemployment rate -- the average rate of unemployment, or amount of unemployment an economy usually experiences.
+
