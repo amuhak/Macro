@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91a3ba3c7b2aa7f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formulas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 2/Employment.md",
+                "file": "Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 2/Employment.md",
+                "file": "Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 2/Employment.md"
+                "file": "Formulas.md"
               }
             }
           }
@@ -155,14 +168,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "02a937f33ea2dea4",
+  "active": "91a3ba3c7b2aa7f8",
   "lastOpenFiles": [
+    "Untitled.md",
     "Formulas.md",
     "Unit 2/Employment.md",
+    "Untitled 1.md",
     "Unit 2/GDP.md",
     "Vocab.md",
-    "Untitled.md",
-    "Untitled 1.md",
     "Unit 2/Economic Growth.md",
     "Unit 2/Circular Flow.md",
     "Unit 2/Economic.md",

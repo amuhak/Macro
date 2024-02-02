@@ -7,3 +7,7 @@ In the labor force:
 - $16+$
 - Currently working (Employed)
 - Wanting to get a job (Unemployed)
+Out of the labor force:
+- Active Military
+- Institutionalized
+- Not working/seeking work

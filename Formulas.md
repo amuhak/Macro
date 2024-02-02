@@ -22,6 +22,5 @@ $$
 \text{Growth rate} &= \dfrac{\text{Year 2 Real GDP} - \text{Year 1 Real GDP}}{\text{Year 1 Real GDP}} \cdot 100
 \end{aligned}
 $$
-
-
-
+## Unemployment Rate
+$\text{Unemployment Rate} = \dfrac{\text{Number of unemployed people}}{\text{Number of people in the labor force}}\cdot 100$
