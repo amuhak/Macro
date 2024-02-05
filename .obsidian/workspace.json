@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02a937f33ea2dea4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "fea9e5388551aef0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 2/Employment.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unit 2/Employment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unit 2/Employment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unit 2/Employment.md"
+              }
             }
           }
         ]
@@ -160,10 +155,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "02a937f33ea2dea4",
+  "active": "fea9e5388551aef0",
   "lastOpenFiles": [
-    "Unit 2/Employment.md",
     "Formulas.md",
+    "Unit 2/Employment.md",
     "Untitled.md",
     "Untitled 1.md",
     "Unit 2/GDP.md",

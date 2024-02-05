@@ -16,3 +16,8 @@ Look at [[Formulas#Unit 2#Unemployment Rate|Formulas]]
 
 Natural unemployment rate -- the average rate of unemployment, or amount of unemployment an economy usually experiences.
 
+### Unemployment rate doesn't account for 
+- Discouraged workers
+- Involuntary part times
+- Underemployed worker
+
