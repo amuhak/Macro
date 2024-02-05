@@ -4,4 +4,9 @@
 - Switching jobs
 - Fired
 We like to see this.
-## www.google.com
+## Structural
+Unemployed because their human capital doesn't match the needs of the employers.
+"Skills mismatch"
+- Automation
+We like to see this???
+## 
