@@ -16,7 +16,7 @@
 | Product Market | Where goods and services are exchanged for money |
 | Macroeconomics | Study of the national economy |
 | Dollar Value | Measured in terms of dollars and cents |
-| Full Employment  | Everyone who want a job has one |
+| Full Employment  | Everyone who want a job has one. (Dosn't cause infaltion) |
 |  |  |
 |  |  |
 |  |  |
