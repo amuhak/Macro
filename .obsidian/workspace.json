@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "ff656ad4e805ab71",
+        "id": "cf578ffb9566412f",
         "type": "tabs",
         "children": [
           {
-            "id": "fea9e5388551aef0",
+            "id": "be68f8554e1b53c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Unit 2/Employment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83b24ad18bbfac82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92f5fbcee18c16e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +62,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -69,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -155,17 +180,21 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "fea9e5388551aef0",
+  "active": "be68f8554e1b53c0",
   "lastOpenFiles": [
     "Formulas.md",
+    "Vocab.md",
     "Unit 2/Employment.md",
+    "Unit 2/GDP.md",
+    "Pdfs/Unit 2/GDP.pdf",
+    "Unit 2/Economic Growth.md",
+    "Pdfs/Unit 2/Economic Growth.pdf",
+    "Unit 2/Economic.md",
+    "Pdfs/Unit 2/Economic.pdf",
+    "Unit 2/Circular Flow.md",
+    "Pdfs/Unit 2/Employment.pdf",
     "Untitled.md",
     "Untitled 1.md",
-    "Unit 2/GDP.md",
-    "Vocab.md",
-    "Unit 2/Economic Growth.md",
-    "Unit 2/Circular Flow.md",
-    "Unit 2/Economic.md",
     "Pdfs/Unit 2/Circular Flow.pdf",
     "Unit 1/Determinants.md",
     "Untitled 1",
@@ -179,10 +208,6 @@
     "Unit 1/Economics.md",
     "Unit 1/Elasticity.md",
     "Pdfs/Unit 1/Elasticity.pdf",
-    "Elasticity.pdf",
-    "Pdfs/Formulas.pdf",
-    "Pdfs/Unit 1/Price Floor and ceil.pdf",
-    "Pdfs/Unit 1/Determinants.pdf",
     "Unit 1/pics/Supply and Demand.png",
     "Untitled_upscayl_4x_realesrgan-x4plus.png",
     "Consumption Possibilities.png",

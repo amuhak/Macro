@@ -21,3 +21,5 @@ Natural unemployment rate -- the average rate of unemployment, or amount of unem
 - Involuntary part times
 - Underemployed worker
 
+# Full Employment 
+Everyone who want a job has one,
