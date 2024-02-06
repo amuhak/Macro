@@ -16,3 +16,12 @@ Prices rise due to increases in price of factors of productions.
 ### Excess demand
 
 ### Supply shocks
+
+# Wage Price Spiral 
+Cost push inflation. Prices rise, people want higher wages. Companies rase prices. Prices rise. And back to the start.
+
+# Types
+- Creeping inflation -- $1-3\%$ 
+- Hyperinflation -- $500\%+$ 
+- Stagflation -- inflation during recession
+
