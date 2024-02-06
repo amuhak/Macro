@@ -1,1 +1,1 @@
- 
+Increase in the overall level of prices. Decrease in purchasing power.
