@@ -26,4 +26,4 @@ Cost push inflation. Prices rise, people want higher wages. Companies rase price
 # Measure
 ## Consumer Price Index
 Government measure of the change in price over time of a specific group of goods & services used by the average household.
-It uses a market basket
+It uses a market basket.

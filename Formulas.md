@@ -23,6 +23,8 @@ $$
 \end{aligned}
 $$
 ## Unemployment Rate
-$\text{Unemployment Rate} = \dfrac{\text{Number of unemployed people}}{\text{Number of people in the labor force}}\cdot 100$
-$\text{Labor force participation rate} = \dfrac{\text{Number of people in the labor force}}{\text{Population}}\cdot 100$$\text{Actual Unemployment Rate} - \text{Natrual Unemployment Rate} = \text{Cyclical Unemployment Rate}$
-
+$\text{Unemployment Rate} = \dfrac{\text{Number of unemployed people}}{\text{Number of people in the labor force}} \times 100$
+$\text{Labor force participation rate} = \dfrac{\text{Number of people in the labor force}}{\text{Population}} \times 100$$\text{Actual Unemployment Rate} - \text{Natrual Unemployment Rate} = \text{Cyclical Unemployment Rate}$
+## Consumer Price Index
+$\text{CPI} = \dfrac{\text{Given Year Market Basket Cost}}{\text{Base Year Market Basket Cost}} \times 100$
+You must use base year quantities.

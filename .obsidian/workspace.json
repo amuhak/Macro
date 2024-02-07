@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8622b138e143a513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formulas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fb519e131755e9bf",
             "type": "leaf",
             "state": {
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocab.md",
+                "file": "Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocab.md",
+                "file": "Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocab.md"
+                "file": "Formulas.md"
               }
             }
           }
@@ -169,16 +181,16 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "fb519e131755e9bf",
+  "active": "8622b138e143a513",
   "lastOpenFiles": [
     "Unit 2/Inflation.md",
+    "Formulas.md",
     "Vocab.md",
     "Unit 2/Circular Flow.md",
     "Pdfs/Unit 2/Inflation.pdf",
     "Unit 2/Employment.md",
     "Unit 2/Unemployment.md",
     "Pdfs/Unit 2/Unemployment.pdf",
-    "Formulas.md",
     "Pdfs/Unit 2/Formulas.pdf",
     "Unit 2/GDP.md",
     "Pdfs/Unit 2/GDP.pdf",
