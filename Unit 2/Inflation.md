@@ -26,11 +26,16 @@ Cost push inflation. Prices rise, people want higher wages. Companies rase price
 
 # Types
 ## Core
-
+Excludes food and fuel (Stuff that changes price fast)
 ## Sticky
-
+Includes everything
 # Measure
 ## Consumer Price Index
 Government measure of the change in price over time of a specific group of goods & services used by the average household.
 It uses a market basket.
 
+# CPI VS GDP
+## CPI
+Let price change.
+## GDP
+Let quantity change.
