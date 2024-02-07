@@ -23,7 +23,14 @@ Cost push inflation. Prices rise, people want higher wages. Companies rase price
 - Creeping inflation -- $1-3\%$ 
 - Hyperinflation -- $500\%+$ 
 - Stagflation -- inflation during recession
+
+# Types
+## Core
+
+## Sticky
+
 # Measure
 ## Consumer Price Index
 Government measure of the change in price over time of a specific group of goods & services used by the average household.
 It uses a market basket.
+
