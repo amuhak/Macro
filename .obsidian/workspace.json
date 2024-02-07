@@ -11,11 +11,28 @@
             "id": "b38b8175754adb1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unit 2/Inflation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb519e131755e9bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocab.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vocab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vocab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vocab.md"
+              }
             }
           }
         ]
@@ -147,10 +169,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "b38b8175754adb1e",
+  "active": "fb519e131755e9bf",
   "lastOpenFiles": [
-    "Vocab.md",
     "Unit 2/Inflation.md",
+    "Vocab.md",
+    "Unit 2/Circular Flow.md",
     "Pdfs/Unit 2/Inflation.pdf",
     "Unit 2/Employment.md",
     "Unit 2/Unemployment.md",
@@ -163,7 +186,6 @@
     "Pdfs/Unit 2/Economic Growth.pdf",
     "Unit 2/Economic.md",
     "Pdfs/Unit 2/Economic.pdf",
-    "Unit 2/Circular Flow.md",
     "Pdfs/Unit 2/Employment.pdf",
     "Untitled.md",
     "Untitled 1.md",

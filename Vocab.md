@@ -16,9 +16,10 @@
 | Product Market | Where goods and services are exchanged for money |
 | Macroeconomics | Study of the national economy |
 | Dollar Value | Measured in terms of dollars and cents |
-| Full Employment  | Everyone who want a job has one. (Dosn't cause infaltion) |
-| Inflation | Increase in the overall level of prices  |
+| Full Employment | Everyone who want a job has one. (Dosn't cause infaltion) |
+| Inflation | Increase in the overall level of prices |
 | Deflation | Fall in the overall level of prices |
 | Disinflation | Increase in price level at a lower rate than previous period |
 | Purchasing Power | How far a dollar can take |
-|  |  |
+|  Consumer Price Index | Government measure of the change in price over time on a market basket |
+| Market Basket | Group of consumer goods & services |
