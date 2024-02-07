@@ -30,6 +30,6 @@ You must use base year quantities.
 ## Inflation Rate
 $$
 \begin{aligned}
-\text{Inflation Rate} = \dfrac{\text{Year 2 CPI} - \text{Year 1 CPI}}{\text{Year 1 CPI}}\\
+\text{Inflation Rate} = \dfrac{\text{Year 2 CPI} - \text{Year 1 CPI}}{\text{Year 1 CPI}} \times 100\\
 \end{aligned}
 $$
