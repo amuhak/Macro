@@ -35,5 +35,5 @@ $$
 $$
 ## Nominal vs. Real
 $$
-\text{Real} = \dfrac{\text{Nominal}}{\pi}\times
+\text{Real} = \dfrac{\text{Nominal}}{\text{Defaltor}}\times100
 $$
