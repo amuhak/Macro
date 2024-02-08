@@ -21,5 +21,6 @@
 | Deflation | Fall in the overall level of prices |
 | Disinflation | Increase in price level at a lower rate than previous period |
 | Purchasing Power | How far a dollar can take |
-|  Consumer Price Index | Government measure of the change in price over time on a market basket |
+| Consumer Price Index | Government measure of the change in price over time on a market basket |
 | Market Basket | Group of consumer goods & services |
+

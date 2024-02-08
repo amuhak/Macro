@@ -52,5 +52,7 @@ Let production change.
 ## Winners
 Borrowers repay their loans with money that has less purchasing power.
 ## Losers
-Lenders and savers
-Lenders
+- Lenders and savers
+- Money losses value.
+- Fixed income
+Their money is now worth less
