@@ -23,4 +23,5 @@
 | Purchasing Power | How far a dollar can take |
 | Consumer Price Index | Government measure of the change in price over time on a market basket |
 | Market Basket | Group of consumer goods & services |
+| COLA | Cost of living adjustment  |
 

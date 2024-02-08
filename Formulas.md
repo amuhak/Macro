@@ -33,3 +33,7 @@ $$
 \text{Inflation Rate} = \dfrac{\text{Year 2 CPI} - \text{Year 1 CPI}}{\text{Year 1 CPI}} \times 100\\
 \end{aligned}
 $$
+## Nominal vs. Real
+$$
+\text{Real} = \dfrac{\text{Nominal}}{\pi}\times
+$$

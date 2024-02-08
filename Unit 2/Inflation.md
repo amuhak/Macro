@@ -50,9 +50,13 @@ Let production change.
 
 # Winner and Losers
 ## Winners
-Borrowers repay their loans with money that has less purchasing power.
+- Borrowers 
+- Government
+- Workers with a COLA
+They repay their loans with money that has less purchasing power.
 ## Losers
 - Lenders and savers
 - Money losses value.
-- Fixed income
+- Fixed income (no COLA)
 Their money is now worth less
+
