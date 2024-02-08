@@ -35,11 +35,22 @@ Government measure of the change in price over time of a specific group of goods
 It uses a market basket.
 
 ### Problems
-#### Substitution bias 
-
+#### Substitution Bias 
+When a good increases in price, people buy substitutes. If the substitutes are not in the market basket.
+#### New Goods
+New goods are not taken into account
+#### Quality Changes
+Quality changes are not taken into account
 
 # CPI VS GDP
 ## CPI
 Let price change.
 ## GDP
 Let production change.
+
+# Winner and Losers
+## Winners
+Borrowers repay their loans with money that has less purchasing power.
+## Losers
+Lenders and savers
+Lenders
