@@ -34,8 +34,12 @@ Includes everything
 Government measure of the change in price over time of a specific group of goods & services used by the average household.
 It uses a market basket.
 
+### Problems
+#### Substitution bias 
+
+
 # CPI VS GDP
 ## CPI
 Let price change.
 ## GDP
-Let quantity change.
+Let production change.
