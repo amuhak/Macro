@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 2/Unemployment.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "struc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 2/Unemployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 2/Unemployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas.md"
+                "file": "Unit 2/Unemployment.md"
               }
             }
           }
@@ -169,8 +170,9 @@
   },
   "active": "8622b138e143a513",
   "lastOpenFiles": [
-    "Unit 2/Circular Flow.md",
+    "Unit 2/GDP.md",
     "Formulas.md",
+    "Unit 2/Circular Flow.md",
     "Unit 2/Nominal vs..md",
     "Vocab.md",
     "Unit 2/Inflation.md",
@@ -179,7 +181,6 @@
     "Unit 2/Unemployment.md",
     "Pdfs/Unit 2/Unemployment.pdf",
     "Pdfs/Unit 2/Formulas.pdf",
-    "Unit 2/GDP.md",
     "Pdfs/Unit 2/GDP.pdf",
     "Unit 2/Economic Growth.md",
     "Pdfs/Unit 2/Economic Growth.pdf",
