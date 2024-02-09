@@ -1,5 +1,4 @@
 Businesses and Households are interdependent.
-
 # Businesses pay for the factors of production
 | Pay for | Its called |
 | ---- | ---- |

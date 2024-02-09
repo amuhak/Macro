@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 2/Unemployment.md",
+                "file": "Formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocab.md",
+                "file": "Unit 2/Unemployment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,23 +168,23 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8622b138e143a513",
+  "active": "fb519e131755e9bf",
   "lastOpenFiles": [
-    "Unit 2/GDP.md",
+    "Vocab.md",
     "Formulas.md",
     "Unit 2/Circular Flow.md",
-    "Unit 2/Nominal vs..md",
-    "Vocab.md",
-    "Unit 2/Inflation.md",
-    "Pdfs/Unit 2/Inflation.pdf",
+    "Unit 2/Economic.md",
+    "Unit 2/Economic Growth.md",
     "Unit 2/Employment.md",
     "Unit 2/Unemployment.md",
+    "Unit 2/Inflation.md",
+    "Unit 2/GDP.md",
+    "Unit 2/Nominal vs..md",
+    "Pdfs/Unit 2/Inflation.pdf",
     "Pdfs/Unit 2/Unemployment.pdf",
     "Pdfs/Unit 2/Formulas.pdf",
     "Pdfs/Unit 2/GDP.pdf",
-    "Unit 2/Economic Growth.md",
     "Pdfs/Unit 2/Economic Growth.pdf",
-    "Unit 2/Economic.md",
     "Pdfs/Unit 2/Economic.pdf",
     "Pdfs/Unit 2/Employment.pdf",
     "Untitled.md",

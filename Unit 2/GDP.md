@@ -57,7 +57,6 @@ $$\text{Rent} + \text{Wages} + \text{Interest} + \text{Profits}$$
 $$
 \sum^{n}_{i=0} \text{Value of input}
 $$
-
 ## GDP per capita
 $$\dfrac{\text{GDP}}{\text{Population}}$$
 # Real GDP
