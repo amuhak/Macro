@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0ac1d2905bc95a7e",
+        "id": "637d9b786227a91c",
         "type": "tabs",
         "children": [
           {
-            "id": "8622b138e143a513",
+            "id": "245cb847f2f42d37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb519e131755e9bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 2/Unemployment.md",
+                "file": "Unit 2/Circular Flow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 2/Unemployment.md",
+                "file": "Unit 2/Circular Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 2/Unemployment.md",
+                "file": "Unit 2/Circular Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 2/Unemployment.md"
+                "file": "Unit 2/Circular Flow.md"
               }
             }
           }
@@ -169,17 +155,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "fb519e131755e9bf",
+  "active": "245cb847f2f42d37",
   "lastOpenFiles": [
+    "Unit 2/GDP.md",
+    "Unit 2/Circular Flow.md",
+    "Unit 2/Inflation.md",
+    "Unit 2/Unemployment.md",
+    "Unit 2/Economic Growth.md",
+    "Unit 2/Economic.md",
+    "Unit 2/Employment.md",
     "Vocab.md",
     "Formulas.md",
-    "Unit 2/Circular Flow.md",
-    "Unit 2/Economic.md",
-    "Unit 2/Economic Growth.md",
-    "Unit 2/Employment.md",
-    "Unit 2/Unemployment.md",
-    "Unit 2/Inflation.md",
-    "Unit 2/GDP.md",
     "Unit 2/Nominal vs..md",
     "Pdfs/Unit 2/Inflation.pdf",
     "Pdfs/Unit 2/Unemployment.pdf",
