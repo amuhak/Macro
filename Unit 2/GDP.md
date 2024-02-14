@@ -11,7 +11,7 @@ Only goods produced within the country’s borders.
 - (Real GDP x GDP Deflator)/100
 ## Calculating GDP
 ### Expenditure Approach
-$$GDP = C + I + G + NX$$
+$$GDP = C + I + G + X_N$$
 #### Consumer spending $(C)$
 Household purchases of consumer goods.
 Must consider:
@@ -39,7 +39,7 @@ Net private domestic investment: the added investment in the current year.
 #### Government purchases $(G)$
 Government purchases of domestic goods and services. 
 All governmental spending. excluding transfer payments.
-#### Net exports $(NX)$
+#### Net exports $(X_N)$
 $(\text{Exports} - \text{Imports})$
 The amount by which foreign spending on American goods and services exceeds American spending on foreign goods and services.
 
