@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 2/Inflation.md",
+                "file": "Unit 2/Circular Flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 2/Inflation.md",
+                "file": "Unit 2/Circular Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 2/Inflation.md",
+                "file": "Unit 2/Circular Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 2/Inflation.md"
+                "file": "Unit 2/Circular Flow.md"
               }
             }
           }
@@ -157,14 +157,16 @@
   },
   "active": "245cb847f2f42d37",
   "lastOpenFiles": [
-    "Unit 2/Unemployment.md",
-    "Unit 2/Economic Growth.md",
-    "Unit 2/Employment.md",
-    "Unit 2/Economic.md",
+    "Circular Flow-1.png",
+    "Circular Flow.png",
     "Unit 2/GDP.md",
+    "Unit 2/Economic Growth.md",
+    "Unit 2/Economic.md",
+    "Unit 2/Inflation.md",
+    "Unit 2/Unemployment.md",
+    "Unit 2/Employment.md",
     "Formulas.md",
     "Unit 2/Circular Flow.md",
-    "Unit 2/Inflation.md",
     "Vocab.md",
     "Unit 2/Nominal vs..md",
     "Pdfs/Unit 2/Inflation.pdf",
@@ -194,7 +196,6 @@
     "Unit 1/pics/Decreasing Opportunity Cost.png",
     "Unit 1/pics/PC shifting inwards.png",
     "Unit 1/pics/PPC shifting outward.png",
-    "Unit 1/pics/Decreasing Opportunity Costs.png",
-    "Unit 1/pics/Increasing Opportunity Costs.png"
+    "Unit 1/pics/Decreasing Opportunity Costs.png"
   ]
 }

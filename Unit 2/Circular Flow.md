@@ -1,4 +1,4 @@
-Businesses and Households are interdependent.
+![[Circular Flow-1.png]]Businesses and Households are interdependent.
 # Businesses pay for the factors of production
 | Pay for | Its called |
 | ---- | ---- |
