@@ -16,7 +16,7 @@ $\text{Qs} - \text{Qd} = \text{Size of surplus}$
 ## GDP
 $$
 \begin{aligned}
-\text{GDP} &= \dfrac{\text{Real GDP} \div \text{GDP Deflator}}{100} \\
+\text{GDP} &= \dfrac{\text{Real GDP} \times \text{GDP Deflator}}{100} \\
 \text{Real GDP} &= \text{Current year production} \times \text{base year prices} \\
 \text{GDP deflator} &= \dfrac{\text{Nominal GDP}}{\text{Real GDP}} \times 100  \\
 \text{Growth rate} &= \dfrac{\text{Year 2 Real GDP} - \text{Year 1 Real GDP}}{\text{Year 1 Real GDP}} \times 100

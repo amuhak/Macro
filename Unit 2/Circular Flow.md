@@ -7,6 +7,5 @@
 | Capital | interest |
 | Entrepreneurship | profit |
 All are a form of Income!
-
 Businesses use revenue to buy resources from households.
 
