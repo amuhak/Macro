@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 2/Unemployment.md",
+                "file": "Unit 2/Inflation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 2/Unemployment.md",
+                "file": "Unit 2/Inflation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 2/Unemployment.md",
+                "file": "Unit 2/Inflation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 2/Unemployment.md"
+                "file": "Unit 2/Inflation.md"
               }
             }
           }
@@ -157,14 +158,14 @@
   },
   "active": "245cb847f2f42d37",
   "lastOpenFiles": [
-    "Unit 2/Employment.md",
+    "Unit 2/Unemployment.md",
     "Unit 2/Economic Growth.md",
+    "Unit 2/Employment.md",
     "Unit 2/Economic.md",
     "Unit 2/GDP.md",
     "Formulas.md",
     "Unit 2/Circular Flow.md",
     "Unit 2/Inflation.md",
-    "Unit 2/Unemployment.md",
     "Vocab.md",
     "Unit 2/Nominal vs..md",
     "Pdfs/Unit 2/Inflation.pdf",
