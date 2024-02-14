@@ -22,4 +22,4 @@ Natural unemployment rate -- the average rate of unemployment, or amount of unem
 - Underemployed worker
 
 # Full Employment 
-Everyone who want a job has one,
+Everyone who want a job has one.
