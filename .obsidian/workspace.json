@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4fe9b991e16fbc66",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Unit 2/Pics/Circular Flow-1.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 2/Pics/Circular Flow-1.png",
+                "file": "Unit 2/Inflation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 2/Pics/Circular Flow-1.png",
+                "file": "Unit 2/Inflation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 2/Pics/Circular Flow-1.png"
+                "file": "Unit 2/Inflation.md"
               }
             }
           }
