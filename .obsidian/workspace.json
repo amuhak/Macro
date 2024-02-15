@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas.md",
-                "mode": "source",
+                "file": "Unit 2/Inflation.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "struc",
+                "query": "dis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 2/Inflation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 2/Inflation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas.md"
+                "file": "Unit 2/Inflation.md"
               }
             }
           }
@@ -157,12 +157,13 @@
   },
   "active": "245cb847f2f42d37",
   "lastOpenFiles": [
+    "Formulas.md",
+    "Vocab.md",
+    "Unit 2/Inflation.md",
     "Unit 2/Circular Flow.md",
     "Unit 1/Determinants.md",
     "Unit 1/Supply and Demand.md",
-    "Unit 2/Inflation.md",
     "Unit 2/Pics",
-    "Formulas.md",
     "Circular Flow.png",
     "Unit 2/Economic.md",
     "Unit 2/Economic Growth.md",
@@ -170,7 +171,6 @@
     "Unit 2/Unemployment.md",
     "Unit 2/Employment.md",
     "Unit 2/Pics/Circular Flow-1.png",
-    "Vocab.md",
     "Unit 2/Nominal vs..md",
     "Pdfs/Unit 2/Inflation.pdf",
     "Pdfs/Unit 2/Unemployment.pdf",
