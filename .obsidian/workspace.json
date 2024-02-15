@@ -23,11 +23,9 @@
             "id": "4fe9b991e16fbc66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Formulas.md",
-                "mode": "source",
-                "source": false
+                "file": "Unit 2/Pics/Circular Flow-1.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 2/Pics/Circular Flow-1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 2/Pics/Circular Flow-1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas.md"
+                "file": "Unit 2/Pics/Circular Flow-1.png"
               }
             }
           }
@@ -168,8 +166,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4fe9b991e16fbc66",
+  "active": "62021f9b417555b8",
   "lastOpenFiles": [
+    "Unit 2/Pics",
+    "Formulas.md",
+    "Circular Flow.png",
     "Unit 2/Economic.md",
     "Unit 2/Economic Growth.md",
     "Unit 2/Inflation.md",
@@ -177,9 +178,7 @@
     "Unit 2/Unemployment.md",
     "Unit 2/Circular Flow.md",
     "Unit 2/Employment.md",
-    "Formulas.md",
-    "Circular Flow-1.png",
-    "Circular Flow.png",
+    "Unit 2/Pics/Circular Flow-1.png",
     "Vocab.md",
     "Unit 2/Nominal vs..md",
     "Pdfs/Unit 2/Inflation.pdf",
