@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 1/Supply and Demand.md",
+                "file": "Unit 1/Determinants.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 1/Supply and Demand.md",
+                "file": "Unit 1/Determinants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 1/Supply and Demand.md",
+                "file": "Unit 1/Determinants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 1/Supply and Demand.md"
+                "file": "Unit 1/Determinants.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "245cb847f2f42d37",
   "lastOpenFiles": [
+    "Unit 1/Supply and Demand.md",
     "Unit 2/Inflation.md",
     "Unit 2/Pics",
     "Formulas.md",
@@ -183,7 +184,6 @@
     "Unit 1/Determinants.md",
     "Untitled 1",
     "Unit 1/Trading.md",
-    "Unit 1/Supply and Demand.md",
     "Unit 1/Price Floor and ceil.md",
     "Unit 1/Marginal Cost.md",
     "Unit 1/Economics.md",
