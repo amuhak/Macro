@@ -20,3 +20,19 @@ When people have less money to save, this causes the curve to shift to the left.
 If people think that their future income will decrease or that inflation will decrease (it will be cheaper to buy later) they will spend less now.
 ### Consumer Indebtedness
 If people have spent a lot in the past and are in debt they are going to spend less now. This will shift the curve to the left.
+### Taxes
+If taxes increase the people have less money and will then spend less. AD shifts to the left
+### Interest Rate
+When interest rates increase AD decreases
+## Investment Spending
+### Interest Rates
+Increase in interest rates will decrease AD (Business will buy  less capital goods).
+### Profit Expectations on Investment Projects
+If the business foresee profits  for investment they will increase demand for capital goods. This will shift  the AD curve.
+### Business Taxes
+Increase business taxes will lead to a decrease in  investment spending and the AD curve will shift to left.
+### Technology
+New technology increases investment spending.
+### Amount of Excess Capacity
+If they are not using the capital they have they will not purchase new capital.
+

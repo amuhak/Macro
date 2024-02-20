@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -180,7 +181,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "62021f9b417555b8",
+  "active": "7a102a8ae769a998",
   "lastOpenFiles": [
     "Unit 3/Pics",
     "Unit 3/Pics/Aggregate Demand Curve.png",
