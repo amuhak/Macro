@@ -11,3 +11,12 @@ As the price level rises so will the interest rate.
 ## Exchange Rate Effect
 When price levels in the  United States increase this means U.S. prices are higher than foreign prices.
 - Purchase of exports will decrease causing the amount of Goods and Services demanded to decrease
+
+# Shifts
+## Consumer Spending
+### Consumer Wealth
+When people have less money to save, this causes the curve to shift to the left. (decrease in AD)
+### Consumer Expectations
+If people think that their future income will decrease or that inflation will decrease (it will be cheaper to buy later) they will spend less now.
+### Consumer Indebtedness
+If people have spent a lot in the past and are in debt they are going to spend less now. This will shift the curve to the left.
