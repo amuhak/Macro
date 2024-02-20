@@ -35,4 +35,10 @@ Increase business taxes will lead to a decrease in  investment spending and the 
 New technology increases investment spending.
 ### Amount of Excess Capacity
 If they are not using the capital they have they will not purchase new capital.
-
+## Government Spending
+Increased government spending (without change in taxes or interest rates) will increase AD.
+## Net Exports
+### Income Abroad
+Increase in foreign demand will cause an increase in AD for U.S.
+### Exchange Rates
+If the dollar becomes worth less (depreciates) in terms to another currency. This means they have more real income and our AD will increase.
