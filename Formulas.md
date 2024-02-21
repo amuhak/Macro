@@ -46,6 +46,9 @@ $\text{APC}= \frac{C}{Y}$
 $\text{APS}= \frac{S}{Y}$
 $\text{APC} + \text{APS} = 1$
 ### Marginal
-MPC = Marginal Propensity to Consume
-MPS = Marginal Propensity to Save
+MPC = Marginal Propensity to Consume $= \frac{\Delta C}{ \Delta Y}$
+MPS = Marginal Propensity to Save $= \frac{\Delta S}{ \Delta Y}$
 $\text{MPC} + \text{MPS} = 1$
+## Expenditure Multiplier 
+$\text{Multiplier} = \frac{1}{1-\text{MPC}} =  \frac{1}{\text{MPS}}$
+
