@@ -51,4 +51,5 @@ MPS = Marginal Propensity to Save $= \frac{\Delta S}{ \Delta Y}$
 $\text{MPC} + \text{MPS} = 1$
 ## Expenditure Multiplier 
 $\text{Multiplier} = \frac{1}{1-\text{MPC}} =  \frac{1}{\text{MPS}}$
-
+## Tax Multiplier
+$\text{Tax multiplier} = -\frac{\text{mpc}}{1-\text{mpc}}$

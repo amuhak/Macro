@@ -8,4 +8,5 @@ As DI increases consumption increases. As we make more  and more money we tend t
 How much people spend or save from their disposable income
 # Marginal Propensity
 These tell us how much they will consume/save when income changes.
-
+# Tax Multiplier
+A decrease in taxes leads to an increase in GDP because the negative multiplier times the negative value of the change in taxes equals a positive number.

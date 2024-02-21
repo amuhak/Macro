@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "637d9b786227a91c",
+        "id": "aa950e2694614265",
         "type": "tabs",
         "children": [
           {
-            "id": "d1d9caa6694bb590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a102a8ae769a998",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 3/Multipliers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91b78190220abc82",
+            "id": "4479b2f5d1608232",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,19 +20,19 @@
             }
           },
           {
-            "id": "ab0fa88c7e1e6f6b",
+            "id": "0b5bf5727017f79e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 2/GDP.md",
+                "file": "Unit 3/Multipliers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dis",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 3/Multipliers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 3/Multipliers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas.md"
+                "file": "Unit 3/Multipliers.md"
               }
             }
           }
@@ -193,15 +170,15 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "91b78190220abc82",
+  "active": "0b5bf5727017f79e",
   "lastOpenFiles": [
-    "Unit 3/Multipliers.md",
     "Formulas.md",
+    "Unit 3/Multipliers.md",
+    "Unit 2/GDP.md",
+    "Vocab.md",
     "Unit 3/Aggregate Demand.md",
     "Unit 3/Pics",
     "Unit 3/Pics/Aggregate Demand Curve.png",
-    "Unit 2/GDP.md",
-    "Vocab.md",
     "Unit 2/Unemployment.md",
     "Unit 3",
     "Unit 2/Inflation.md",
