@@ -1,4 +1,4 @@
-6# Unit 1
+# Unit 1
 ## Opportunity Cost
 ### Output Problem
 Opportunity Cost of Good $A = \dfrac{B}{A}$
@@ -37,3 +37,15 @@ $$
 $$
 \text{Real} = \dfrac{\text{Nominal}}{\text{Defaltor}}\times100
 $$
+# Unit 3
+## Propensity
+### Average 
+#### Consume
+$\text{APC}= \frac{C}{Y}$
+#### Save
+$\text{APS}= \frac{S}{Y}$
+$\text{APC} + \text{APS} = 1$
+### Marginal
+MPC = Marginal Propensity to Consume
+MPS = Marginal Propensity to Save
+$\text{MPC} + \text{MPS} = 1$
