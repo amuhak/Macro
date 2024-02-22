@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 3/Multipliers.md",
+                "file": "Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 3/Multipliers.md",
+                "file": "Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 3/Multipliers.md"
+                "file": "Formulas.md"
               }
             }
           }
@@ -170,10 +169,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "0b5bf5727017f79e",
+  "active": "4479b2f5d1608232",
   "lastOpenFiles": [
-    "Formulas.md",
     "Unit 3/Multipliers.md",
+    "Formulas.md",
     "Unit 2/GDP.md",
     "Vocab.md",
     "Unit 3/Aggregate Demand.md",
