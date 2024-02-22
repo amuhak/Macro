@@ -2,7 +2,7 @@
 ![[Aggregate Demand Curve.png|400]]
 # Why is it downward sloping?
 ## **Real Wealth Effect**
-When prices fall the money that people have will  be worth more. (The real value will be worth more.) And vice versa
+When prices fall the money that people have will be worth more. (The real value will be worth more.) And vice versa
 ## Interest-Rate Effect
 As the price level rises so will the interest rate.
 - This will reduce consumption. (This is because the higher prices means consumers (business, individuals...) will need more money.)
@@ -25,11 +25,11 @@ If taxes increase the people have less money and will then spend less. AD shifts
 When interest rates increase AD decreases
 ## Investment Spending
 ### Interest Rates
-Increase in interest rates will decrease AD (Business will buy  less capital goods).
+Increase in interest rates will decrease AD (Business will buy less capital goods).
 ### Profit Expectations on Investment Projects
-If the business foresee profits  for investment they will increase demand for capital goods. This will shift  the AD curve.
+If the business foresee profits for investment they will increase demand for capital goods. This will shift the AD curve.
 ### Business Taxes
-Increase business taxes will lead to a decrease in  investment spending and the AD curve will shift to left.
+Increase business taxes will lead to a decrease in investment spending and the AD curve will shift to left.
 ### Technology
 New technology increases investment spending.
 ### Amount of Excess Capacity
