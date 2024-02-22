@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 3/Aggregate Demand.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 3/Aggregate Demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 3/Aggregate Demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas.md"
+                "file": "Unit 3/Aggregate Demand.md"
               }
             }
           }
@@ -171,8 +170,8 @@
   },
   "active": "4479b2f5d1608232",
   "lastOpenFiles": [
-    "Unit 3/Multipliers.md",
     "Formulas.md",
+    "Unit 3/Multipliers.md",
     "Unit 2/GDP.md",
     "Vocab.md",
     "Unit 3/Aggregate Demand.md",
