@@ -11,7 +11,16 @@ Firms can earn more profits when price levels increases. Wages are fixed, prices
 Same with deflation. Price of output falls, no change in input costs.
 
 ## Determinants
-### Change in input prices
+### Change in Input Prices
 - Availability of resources
 - Price of imported resources
 - Market power -- The ability to set a price above the point that would be reached in a competitive environment. (Monopoly)
+### Change in Legal-Institutional Environment
+- Business taxes and subsidies
+- Government Regulation
+### Aggregate Supply
+#### Changes in productivity
+Productivity = real output/input
+- Technology 
+- Investments in Human Capital 
+- Production Techniques (specialization/Division of Labor)
