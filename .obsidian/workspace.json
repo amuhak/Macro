@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 3/Aggregate Supply.md",
+                "file": "Unit 3/ADAS.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 3/Aggregate Supply.md",
+                "file": "Unit 3/ADAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 3/Aggregate Supply.md",
+                "file": "Unit 3/ADAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 3/Aggregate Supply.md"
+                "file": "Unit 3/ADAS.md"
               }
             }
           }
@@ -157,8 +158,11 @@
   },
   "active": "4479b2f5d1608232",
   "lastOpenFiles": [
-    "Formulas.md",
+    "ADAS.png",
+    "temp.png",
     "Unit 3/Aggregate Supply.md",
+    "Unit 3/ADAS.md",
+    "Formulas.md",
     "Unit 3/Aggregate Demand.md",
     "Unit 3/Multipliers.md",
     "Unit 2/GDP.md",
@@ -196,7 +200,6 @@
     "Consumption Possibilities.png",
     "Unit 1/pics/Constant Opportunity Cost.png",
     "Unit 1/pics/Increasing Opportunity Cost.png",
-    "Unit 1/pics/Decreasing Opportunity Cost.png",
-    "Unit 1/pics/PC shifting inwards.png"
+    "Unit 1/pics/Decreasing Opportunity Cost.png"
   ]
 }
