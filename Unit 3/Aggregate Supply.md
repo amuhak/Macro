@@ -37,3 +37,15 @@ The LRAS is vertical because, in the long-run, the potential output an economy c
 ## Effect Output
 1) the quantity and the quality of a country’s resources
 2) how it can combine those resources to produce aggregate output.
+The LRAS tells us about economic growth.
+## When does it move
+When the maximum sustainable capacity changes.
+1. More resources (F.O.P.)
+2. Better Entrepreneurship
+3. Technology
+4. Better production Techniques
+5. Increase in Human Capital
+## Recessionary Gap
+![[Recessionary Gap.png|400]]
+Actual Unemployment > Full Employment.
+"Economy is operating below full em"
