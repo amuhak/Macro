@@ -2,6 +2,7 @@ Equilibrium price level and Equilibrium real domestic output The intersection of
 Equilibrium: situation in which there are no forces that will produce change among the variables considered.
 Output and Unemployment are inversely related
 ![[ADAS.png]]
+**SRAS** -- Short Run Aggregate Supply
 # Demand Pull Inflation 
 An increase in demand pulls up the price level.
 ![[Demand Pull Inflation.png|400]]
