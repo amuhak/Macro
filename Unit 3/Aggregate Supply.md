@@ -24,4 +24,10 @@ Productivity = real output/input
 - Technology 
 - Investments in Human Capital 
 - Production Techniques (specialization/Division of Labor)
+Can something effect both AS and AD?
+**Yes** wages.
 # Long Run
+What is the difference between short run and long run?
+In the long run all prices and wages are fully flexible, while in the short run some input prices are fixed. 
+
+If inflation increases, then eventually wages will also rise to match. 
