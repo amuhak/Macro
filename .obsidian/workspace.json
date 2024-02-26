@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cpi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -158,19 +157,20 @@
   },
   "active": "4479b2f5d1608232",
   "lastOpenFiles": [
+    "Unit 2/Inflation.md",
+    "Formulas.md",
+    "Unit 3/Multipliers.md",
+    "Unit 3/Aggregate Supply.md",
     "Inflationary Gap.png",
     "Pasted image 20240226144207.png",
     "Recessionary Gap.png",
     "Unit 3/ADAS.md",
     "Unit 3/Pics/LRAS.png",
     "Unit 3/Pics/ADAS.png",
-    "Unit 3/Aggregate Supply.md",
-    "Unit 3/Multipliers.md",
     "ADAS-1.png",
     "Unit 3/Pics/Cost Push Inflation.png",
     "Unit 3/Pics/Demand Pull Inflation.png",
     "temp.png",
-    "Formulas.md",
     "Unit 3/Aggregate Demand.md",
     "Unit 2/GDP.md",
     "Vocab.md",
@@ -178,12 +178,10 @@
     "Unit 3/Pics/Aggregate Demand Curve.png",
     "Unit 2/Unemployment.md",
     "Unit 3",
-    "Unit 2/Inflation.md",
     "Unit 2/Circular Flow.md",
     "Unit 1/Determinants.md",
     "Unit 1/Supply and Demand.md",
     "Unit 2/Pics",
-    "Circular Flow.png",
     "Unit 2/Economic.md",
     "Unit 2/Economic Growth.md",
     "Unit 2/Employment.md",
