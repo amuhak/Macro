@@ -48,4 +48,8 @@ When the maximum sustainable capacity changes.
 ## Recessionary Gap
 ![[Recessionary Gap.png|400]]
 Actual Unemployment > Full Employment.
-"Economy is operating below full em"
+"Economy is operating below full employment"
+## Inflationary Gap 
+![[Inflationary Gap.png|400]]
+Actual Unemployment < Full Employment.
+"Economy is operating above full employment"
