@@ -24,3 +24,4 @@ Productivity = real output/input
 - Technology 
 - Investments in Human Capital 
 - Production Techniques (specialization/Division of Labor)
+# Long Run

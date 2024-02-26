@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 3/ADAS.md",
+                "file": "Unit 3/Aggregate Supply.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 3/ADAS.md",
+                "file": "Unit 3/Aggregate Supply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 3/ADAS.md",
+                "file": "Unit 3/Aggregate Supply.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 3/ADAS.md"
+                "file": "Unit 3/Aggregate Supply.md"
               }
             }
           }
@@ -158,17 +157,16 @@
   },
   "active": "4479b2f5d1608232",
   "lastOpenFiles": [
-    "ADAS.png",
-    "ADAS-1.png",
-    "Cost Push Inflation.png",
-    "Demand Pull Inflation.png",
-    "ADAS.png",
-    "temp.png",
-    "Unit 3/Aggregate Supply.md",
     "Unit 3/ADAS.md",
+    "Unit 3/Aggregate Supply.md",
+    "Unit 3/Multipliers.md",
+    "Unit 3/Pics/ADAS.png",
+    "ADAS-1.png",
+    "Unit 3/Pics/Cost Push Inflation.png",
+    "Unit 3/Pics/Demand Pull Inflation.png",
+    "temp.png",
     "Formulas.md",
     "Unit 3/Aggregate Demand.md",
-    "Unit 3/Multipliers.md",
     "Unit 2/GDP.md",
     "Vocab.md",
     "Unit 3/Pics",
@@ -199,7 +197,6 @@
     "Unit 1/Marginal Cost.md",
     "Unit 1/Economics.md",
     "Unit 1/Elasticity.md",
-    "Unit 1/pics/Supply and Demand.png",
-    "Untitled_upscayl_4x_realesrgan-x4plus.png"
+    "Unit 1/pics/Supply and Demand.png"
   ]
 }
