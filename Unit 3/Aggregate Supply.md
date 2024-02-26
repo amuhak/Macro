@@ -31,3 +31,9 @@ What is the difference between short run and long run?
 In the long run all prices and wages are fully flexible, while in the short run some input prices are fixed. 
 
 If inflation increases, then eventually wages will also rise to match. 
+[[ADAS#LRAS|Graph]]
+## Why Vertical?
+The LRAS is vertical because, in the long-run, the potential output an economy can produce isn’t related to the price level.
+## Effect Output
+1) the quantity and the quality of a country’s resources
+2) how it can combine those resources to produce aggregate output.

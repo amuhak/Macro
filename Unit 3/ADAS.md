@@ -10,3 +10,6 @@ An increase in demand pulls up the price level.
 If AS decrease we get cost-push inflation because the cost of production is pushing up the price. 
 ![[Cost Push Inflation.png|400]]
 
+# LRAS
+![[LRAS.png]]
+**LRAS** -- Long run Aggregate Supply
