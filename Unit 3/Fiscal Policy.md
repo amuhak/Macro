@@ -11,3 +11,5 @@ More tax, less government spending, less transfer payments
 Moves us towards a surplus.
 ## Discretionary fiscal policy
 Deliberate manipulation of taxes and government spending by Congress to alter real output and employment, control inflation, and stimulate economic growth.
+
+SRAS will \[Increase or decrease] because wages and resource prices will \[Increase or decrease] 
