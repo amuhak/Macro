@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 3/Fiscal Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 3/Fiscal Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 3/Fiscal Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas.md"
+                "file": "Unit 3/Fiscal Policy.md"
               }
             }
           }
@@ -155,11 +156,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4479b2f5d1608232",
+  "active": "62021f9b417555b8",
   "lastOpenFiles": [
+    "Formulas.md",
+    "Unit 3/Fiscal Policy.md",
     "Unit 3/Aggregate Supply.md",
     "Unit 2/Inflation.md",
-    "Formulas.md",
     "Unit 3/Multipliers.md",
     "Inflationary Gap.png",
     "Pasted image 20240226144207.png",
