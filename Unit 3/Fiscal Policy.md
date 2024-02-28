@@ -1,3 +1,4 @@
+(Is not efficient, [[Automatic Stabilizers]] for fast response)
 All the spending, taxing, and borrowing activities of the national government aimed at moving [[Aggregate Demand|AD]].
 ## Expansionary
 Increase in AD. 

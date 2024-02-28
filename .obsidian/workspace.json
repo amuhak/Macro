@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 3/Untitled.md",
+                "file": "Unit 3/Automatic Stabilizers.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 3/Untitled.md",
+                "file": "Unit 3/Automatic Stabilizers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 3/Untitled.md",
+                "file": "Unit 3/Automatic Stabilizers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 3/Untitled.md"
+                "file": "Unit 3/Automatic Stabilizers.md"
               }
             }
           }
@@ -170,10 +171,10 @@
   },
   "active": "04cfaba02a469003",
   "lastOpenFiles": [
-    "Unit 3/Balanced Budget.md",
-    "Unit 3/Untitled.md",
-    "Vocab.md",
     "Unit 3/Fiscal Policy.md",
+    "Unit 3/Automatic Stabilizers.md",
+    "Unit 3/Balanced Budget.md",
+    "Vocab.md",
     "Unit 3/Multipliers.md",
     "Unit 3/Pics/Recessionary Gap.png",
     "Unit 3/ADAS.md",
