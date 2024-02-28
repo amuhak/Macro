@@ -29,4 +29,4 @@
 |          Surplus          | Income > Expenses                                                                                                                   |
 |          Deficit          | Expenses > Income                                                                                                                   |
 |           Debt            | Result of running deficits                                                                                                          |
-|             2             |                                                                                                                                     |
+|                           |                                                                                                                                     |
