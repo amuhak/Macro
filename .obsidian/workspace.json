@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 3/Balanced Budget.md",
+                "file": "Unit 3/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 3/Balanced Budget.md",
+                "file": "Unit 3/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 3/Balanced Budget.md",
+                "file": "Unit 3/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 3/Balanced Budget.md"
+                "file": "Unit 3/Untitled.md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "04cfaba02a469003",
   "lastOpenFiles": [
-    "Vocab.md",
     "Unit 3/Balanced Budget.md",
+    "Unit 3/Untitled.md",
+    "Vocab.md",
     "Unit 3/Fiscal Policy.md",
     "Unit 3/Multipliers.md",
     "Unit 3/Pics/Recessionary Gap.png",
