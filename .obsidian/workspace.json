@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 3/Aggregate Demand.md",
+                "file": "Unit 3/ADAS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 3/Aggregate Demand.md",
+                "file": "Unit 3/ADAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 3/Aggregate Demand.md",
+                "file": "Unit 3/ADAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 3/Aggregate Demand.md"
+                "file": "Unit 3/ADAS.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "4479b2f5d1608232",
   "lastOpenFiles": [
+    "Unit 3/Aggregate Demand.md",
     "Unit 3/Multipliers.md",
     "Unit 3/ADAS.md",
     "Unit 3/Fiscal Policy.md",
@@ -172,7 +173,6 @@
     "Unit 3/Pics/Cost Push Inflation.png",
     "Unit 3/Pics/Demand Pull Inflation.png",
     "temp.png",
-    "Unit 3/Aggregate Demand.md",
     "Unit 2/GDP.md",
     "Vocab.md",
     "Unit 3/Pics",
