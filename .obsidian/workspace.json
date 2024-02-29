@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4479b2f5d1608232",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 3/Fiscal Policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "04cfaba02a469003",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
