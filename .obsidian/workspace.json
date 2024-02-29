@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 3/Automatic Stabilizers.md",
+                "file": "Unit 3/Aggregate Demand.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 3/Automatic Stabilizers.md",
+                "file": "Unit 3/Aggregate Demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 3/Automatic Stabilizers.md",
+                "file": "Unit 3/Aggregate Demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 3/Automatic Stabilizers.md"
+                "file": "Unit 3/Aggregate Demand.md"
               }
             }
           }
@@ -157,6 +157,8 @@
   },
   "active": "04cfaba02a469003",
   "lastOpenFiles": [
+    "Unit 3/Multipliers.md",
+    "Unit 3/Automatic Stabilizers.md",
     "Automatic Stabilizers.png",
     "Automatic Stabilizers-1.png",
     "Automatic Stabilizers.png",
@@ -164,10 +166,8 @@
     "Automatic Stabilizers.png",
     "Pasted image 20240228150723.png",
     "Unit 3/Fiscal Policy.md",
-    "Unit 3/Automatic Stabilizers.md",
     "Unit 3/Balanced Budget.md",
     "Vocab.md",
-    "Unit 3/Multipliers.md",
     "Unit 3/Pics/Recessionary Gap.png",
     "Unit 3/ADAS.md",
     "Unit 3/Aggregate Demand.md",
@@ -177,7 +177,6 @@
     "Unit 3/Pics/Inflationary Gap.png",
     "Pasted image 20240226144207.png",
     "Unit 3/Pics/LRAS.png",
-    "Unit 3/Pics/ADAS.png",
     "Unit 2/GDP.md",
     "Unit 3/Pics",
     "Unit 2/Unemployment.md",

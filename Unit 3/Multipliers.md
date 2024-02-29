@@ -3,7 +3,6 @@ As DI increases consumption increases. As we make more  and more money we tend t
 - Consumption increases as income increases 
 - Consumption increases less than income increases 
 - Saving increases as income increases
-
 # Average Propensity
 How much people spend or save from their disposable income
 # Marginal Propensity
