@@ -40,11 +40,11 @@ $$
 # Unit 3
 ## Propensity
 ### Average 
-| Letter | Meaning |
-| ---- | ---- |
-| C | Consumption |
-| S | Saving |
-| Y | Income |
+| Letter | Meaning     |
+| ------ | ----------- |
+| C      | Consumption |
+| S      | Saving      |
+| Y      | Income      |
 #### Consume
 $\text{APC}= \frac{C}{Y}$
 #### Save
