@@ -11,8 +11,12 @@
             "id": "6f242be1d9bf2132",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unit 4/Money.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unit 4/Money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unit 4/Money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Unit 4/Money.md"
               }
             }
           }
@@ -149,9 +155,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "62021f9b417555b8",
+  "active": "6f242be1d9bf2132",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Unit 4/Money.md",
+    "Unit 4/Pics",
+    "Unit 4",
     "Formulas.md",
     "Unit 3/Aggregate Demand.md",
     "Unit 3/ADAS.md",
@@ -189,13 +197,10 @@
     "Pdfs/Unit 2/Formulas.pdf",
     "Pdfs/Unit 2/GDP.pdf",
     "Pdfs/Unit 2/Economic Growth.pdf",
-    "Pdfs/Unit 2/Economic.pdf",
-    "Pdfs/Unit 2/Employment.pdf",
     "Untitled 1.md",
     "Unit 1/Trading.md",
     "Unit 1/Price Floor and ceil.md",
     "Unit 1/Marginal Cost.md",
-    "Unit 1/Economics.md",
-    "Unit 1/Elasticity.md"
+    "Unit 1/Economics.md"
   ]
 }
