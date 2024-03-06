@@ -12,3 +12,5 @@ A good used to buy another good
 Money that represent something else (Generally gold) 
 ### Fait Money
 The Government says that the money has value.
+Legal Tender -- Money that must be accepted as payment for purchasing/debts.
+
