@@ -14,4 +14,3 @@ Rate of Return -- $\dfrac{\text{Change in value of an asset}}{\text{initial valu
 
 Interest Rates and Bond Prices,
 Bond Prices are inversely related to Interest Rates.
-
