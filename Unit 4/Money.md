@@ -24,4 +24,4 @@ Cash, coins, and bank reserves in circulation.
 Cash and coins in circulation, demand deposit accounts.
 Demand deposit accounts -- funds you can spend at will
 ### $M_2$
-$M_1+$ small denomination time deposits + mon
+$M_1+$ small denomination time deposits (CDs, certificates of deposits) + money market accounts.
