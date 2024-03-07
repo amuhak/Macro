@@ -58,3 +58,5 @@ $\text{MPC} + \text{MPS} = 1$
 $\text{Multiplier} = \frac{1}{1-\text{MPC}} =  \frac{1}{\text{MPS}}$
 ## Tax Multiplier
 $\text{Tax multiplier} = -\frac{\text{mpc}}{1-\text{mpc}}$
+# Unit 4
+Rate of Return -- $\dfrac{\text{Change in value of an asset}}{\text{initial value}} \times 100 = \text{R.O.R}$
