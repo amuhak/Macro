@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 4/Money.md",
+                "file": "Unit 4/Financial Asset.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 4/Money.md",
+                "file": "Unit 4/Financial Asset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 4/Money.md",
+                "file": "Unit 4/Financial Asset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 4/Money.md"
+                "file": "Unit 4/Financial Asset.md"
               }
             }
           }
@@ -159,6 +158,7 @@
   "active": "6f242be1d9bf2132",
   "lastOpenFiles": [
     "Unit 4/Money.md",
+    "Unit 4/Financial Asset.md",
     "Unit 4/Pics",
     "Unit 4",
     "Formulas.md",
