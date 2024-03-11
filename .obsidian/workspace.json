@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 4/Money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formulas.md",
+                "file": "Unit 4/Money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formulas.md"
+                "file": "Unit 4/Money.md"
               }
             }
           }
@@ -169,10 +168,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "6e55ebefd0458d49",
+  "active": "6f242be1d9bf2132",
   "lastOpenFiles": [
-    "Unit 4/Money.md",
     "Formulas.md",
+    "Unit 4/Money.md",
     "Unit 4/Financial Asset.md",
     "Unit 4/Pics",
     "Unit 4",
