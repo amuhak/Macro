@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -168,7 +167,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "62021f9b417555b8",
+  "active": "6f242be1d9bf2132",
   "lastOpenFiles": [
     "Formulas.md",
     "Unit 4/Money.md",

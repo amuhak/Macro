@@ -60,3 +60,8 @@ $\text{Multiplier} = \frac{1}{1-\text{MPC}} =  \frac{1}{\text{MPS}}$
 $\text{Tax multiplier} = -\frac{\text{mpc}}{1-\text{mpc}}$
 # Unit 4
 Rate of Return -- $\dfrac{\text{Change in value of an asset}}{\text{initial value}} \times 100 = \text{R.O.R}$
+$$(M)(V)=(P)(Y)$$
+$M=$ Money Supply $(M_1)$
+$V=$ velocity
+$P=$ Price Level
+$Y =$ Real GDP
