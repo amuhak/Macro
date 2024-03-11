@@ -5,3 +5,4 @@ Consists of Assets, Liabilities, and Net Worth.
 **Liabilities**: What you have to give it back to someone if asked. (Claims)
 **Net Worth**: the claims of the owners against the firm’s assets
 The balance sheets must stay balanced.
+
