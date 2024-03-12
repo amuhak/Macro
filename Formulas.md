@@ -65,3 +65,4 @@ $M=$ Money Supply $(M_1)$
 $V=$ Velocity (# of times $ changes hand/year)
 $P=$ Price Level
 $Y =$ Real GDP
+$$\text{Money Multiplier} = \frac{1}{\text{Reserve Requirement}}$$
