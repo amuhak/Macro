@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -170,8 +171,8 @@
   },
   "active": "6e55ebefd0458d49",
   "lastOpenFiles": [
-    "Formulas.md",
     "Unit 4/Fed.md",
+    "Formulas.md",
     "Unit 4/Fractional Reserve Banking.md",
     "Unit 4/Banks.md",
     "Unit 4/Money.md",
