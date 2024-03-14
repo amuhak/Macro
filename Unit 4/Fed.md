@@ -34,7 +34,12 @@ They set interest rates.
 - Amount of money a bank need to reserve at the Fed.
 - Higher reserve requirements $\longrightarrow$ Banks have less money to loan out.
 - This decreases money multiplier 
-## Open market operations
+## Open Market Operations
 - Buying and selling of bonds between the Fed and financial institutions in the open market.
 - Most important tool. 
 - Directed by FOMC
+## Federal Funds Rate
+- Interest that banks charge each other. 
+- Fed set a target for this.
+- They achieve it using open market operations.
+- All the other interest rates are higher than this as banks want to make a profit.
