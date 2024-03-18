@@ -6,3 +6,4 @@ $$\text{Nominal Interest Rate} = \text{Real Interest Rate} + \text{Inflation}$$
 The rate of interest paid for a loan, adjusted for inflation.
 # Fisher Effect
 When prices rise, interest rates rise. (Long run)
+![[Money Demand.png]]
