@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 4/Interest.md",
+                "file": "Unit 4/Loanable Funds.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 4/Interest.md",
+                "file": "Unit 4/Loanable Funds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 4/Interest.md",
+                "file": "Unit 4/Loanable Funds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 4/Interest.md"
+                "file": "Unit 4/Loanable Funds.md"
               }
             }
           }
@@ -157,6 +157,8 @@
   },
   "active": "d53c9c3ac9bfb486",
   "lastOpenFiles": [
+    "Unit 4/Interest.md",
+    "Unit 4/Loanable Funds.md",
     "Money Demand.png",
     "Unit 4/Fed.md",
     "Unit 3/Automatic Stabilizers.md",
@@ -166,7 +168,6 @@
     "Unit 4/Banks.md",
     "Unit 4/Money.md",
     "Unit 4/Financial Asset.md",
-    "Unit 4/Interest.md",
     "Unit 4/Pics",
     "Unit 4",
     "Unit 3/Aggregate Demand.md",
@@ -185,7 +186,6 @@
     "Unit 2/Inflation.md",
     "Unit 3/Pics/Inflationary Gap.png",
     "Pasted image 20240226144207.png",
-    "Unit 3/Pics/LRAS.png",
     "Unit 2/GDP.md",
     "Unit 3/Pics",
     "Unit 2/Unemployment.md",
