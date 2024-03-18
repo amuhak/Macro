@@ -8,4 +8,4 @@ Excess Reserves
 1. Monetary Policy
 2. Financial Account Inflows
 3. Decrease in tax will entice people to save more.
-4. 
+4. Increase in money supply leads to more saving.
