@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "55117616ba3002b9",
+        "id": "18149e4b006765e5",
         "type": "tabs",
         "children": [
           {
-            "id": "6f242be1d9bf2132",
+            "id": "6d300328b87f6a4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 4/Fractional Reserve Banking.md",
+                "file": "Unit 4/Interest.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e55ebefd0458d49",
+            "id": "4114a6ac5c49a1ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 4/Fed.md",
+                "file": "Formulas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 4/Fed.md",
+                "file": "Unit 4/Interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 4/Fed.md",
+                "file": "Unit 4/Interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 4/Fed.md"
+                "file": "Unit 4/Interest.md"
               }
             }
           }
@@ -169,10 +168,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "6e55ebefd0458d49",
+  "active": "6d300328b87f6a4b",
   "lastOpenFiles": [
-    "Unit 4/Fed.md",
     "Formulas.md",
+    "Unit 4/Interest.md",
+    "Unit 4/Fed.md",
     "Unit 4/Fractional Reserve Banking.md",
     "Unit 4/Banks.md",
     "Unit 4/Money.md",
@@ -215,7 +215,6 @@
     "Pdfs/Unit 2/Formulas.pdf",
     "Pdfs/Unit 2/GDP.pdf",
     "Pdfs/Unit 2/Economic Growth.pdf",
-    "Untitled 1.md",
-    "Unit 1/Trading.md"
+    "Untitled 1.md"
   ]
 }

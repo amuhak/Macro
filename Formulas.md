@@ -66,3 +66,4 @@ $V=$ Velocity (# of times $ changes hand/year)
 $P=$ Price Level
 $Y =$ Real GDP
 $$\text{Money Multiplier} = \frac{1}{\text{Reserve Requirement}}$$
+$\text{Nominal Interest Rate} = \text{Real Interest Rate} + \text{Inflation}$
