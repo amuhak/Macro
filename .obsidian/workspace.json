@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d7a8c3d5d83269d2",
+        "id": "a0d408419915e847",
         "type": "tabs",
         "children": [
           {
-            "id": "d53c9c3ac9bfb486",
+            "id": "73c4285338ba8145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 4/Loanable Funds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "493767ad1b62aef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 4/Interest.md",
+                "file": "Unit 4/Ample Reserve Regime.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 4/Interest.md",
+                "file": "Unit 4/Ample Reserve Regime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 4/Interest.md",
+                "file": "Unit 4/Ample Reserve Regime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 4/Interest.md"
+                "file": "Unit 4/Ample Reserve Regime.md"
               }
             }
           }
@@ -169,10 +155,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "493767ad1b62aef6",
+  "active": "73c4285338ba8145",
   "lastOpenFiles": [
-    "Unit 4/Loanable Funds.md",
+    "Unit 4/Ample Reserve Regime.md",
     "Unit 4/Interest.md",
+    "Unit 4/Loanable Funds.md",
     "Unit 4/Pics/Money Demand.png",
     "Unit 4/Pics/Loanable Funds.png",
     "Unit 4/Fed.md",
