@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -157,11 +158,11 @@
   },
   "active": "73c4285338ba8145",
   "lastOpenFiles": [
-    "Unit 4/Pics/Reserve Market Model Graph.png",
-    "Unit 4/Ample Reserve Regime.md",
     "Unit 4/Interest.md",
-    "Unit 4/Loanable Funds.md",
     "Unit 4/Pics/Money Demand.png",
+    "Unit 4/Ample Reserve Regime.md",
+    "Unit 4/Pics/Reserve Market Model Graph.png",
+    "Unit 4/Loanable Funds.md",
     "Unit 4/Pics/Loanable Funds.png",
     "Unit 4/Fed.md",
     "Unit 3/Automatic Stabilizers.md",
