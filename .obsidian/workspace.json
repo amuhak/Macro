@@ -26,30 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "Unit 4/Loanable Funds.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ec534af2351acc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 4/Interest.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "925c71b2f7fb6f96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,9 +171,9 @@
   },
   "active": "f65c0c228c18d17d",
   "lastOpenFiles": [
-    "Unit 4/Interest.md",
-    "Unit 4/Loanable Funds.md",
     "Unit 4/Ample Reserve Regime.md",
+    "Unit 4/Loanable Funds.md",
+    "Unit 4/Interest.md",
     "Formulas.md",
     "Unit 4/Fed.md",
     "Unit 4/Fractional Reserve Banking.md",

@@ -9,3 +9,5 @@ Excess Reserves
 2. Financial Account Inflows
 3. Decrease in tax will entice people to save more.
 4. Increase in money supply leads to more saving.
+# Crowding Out
+Expansionary discal policy that leads to deficit spending, which causes interest rates to rise, making it harder of businesses to borrow money. 
