@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 4/Loanable Funds.md",
+                "file": "Unit 4/Ample Reserve Regime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 4/Loanable Funds.md",
+                "file": "Unit 4/Ample Reserve Regime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 4/Loanable Funds.md"
+                "file": "Unit 4/Ample Reserve Regime.md"
               }
             }
           }
@@ -169,10 +168,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f65c0c228c18d17d",
+  "active": "73c4285338ba8145",
   "lastOpenFiles": [
-    "Unit 4/Ample Reserve Regime.md",
     "Unit 4/Loanable Funds.md",
+    "Unit 4/Ample Reserve Regime.md",
     "Unit 4/Interest.md",
     "Formulas.md",
     "Unit 4/Fed.md",
