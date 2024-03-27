@@ -14,7 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "Unit 4/Ample Reserve Regime.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ef72a86e28de011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 4/Ample Reserve Regime.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "disco",
+                "query": "admi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 4/Ample Reserve Regime.md",
+                "file": "Unit 4/Loanable Funds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 4/Ample Reserve Regime.md",
+                "file": "Unit 4/Loanable Funds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 4/Ample Reserve Regime.md"
+                "file": "Unit 4/Loanable Funds.md"
               }
             }
           }
@@ -168,10 +181,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "73c4285338ba8145",
+  "active": "f65c0c228c18d17d",
   "lastOpenFiles": [
-    "Unit 4/Loanable Funds.md",
     "Unit 4/Ample Reserve Regime.md",
+    "Unit 3/ADAS.md",
+    "Pdfs/Unit 2/Circular Flow.pdf",
+    "Unit 4/Loanable Funds.md",
     "Unit 4/Interest.md",
     "Formulas.md",
     "Unit 4/Fed.md",
@@ -189,7 +204,6 @@
     "Unit 4/Pics",
     "Unit 4",
     "Unit 3/Aggregate Demand.md",
-    "Unit 3/ADAS.md",
     "Unit 3/Multipliers.md",
     "Unit 3/Pics/Automatic Stabilizers.png",
     "Automatic Stabilizers-1.png",
@@ -213,7 +227,6 @@
     "Pdfs/Unit 2/Inflation.pdf",
     "Pdfs/Unit 2/Unemployment.pdf",
     "Pdfs/Unit 2/Formulas.pdf",
-    "Pdfs/Unit 2/GDP.pdf",
-    "Pdfs/Unit 2/Economic Growth.pdf"
+    "Pdfs/Unit 2/GDP.pdf"
   ]
 }
