@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "09b6efe4dce629a3",
+        "id": "69f10de4675a6867",
         "type": "tabs",
         "children": [
           {
-            "id": "feb4d6313cd8a313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 4/Money.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4d7397a5f41294a",
+            "id": "202c0e5bc0ded292",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Unit 4/Loanable Funds.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa8249c227662337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d35de7596e672c8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 4/Interest.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,21 +155,21 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d4d7397a5f41294a",
+  "active": "202c0e5bc0ded292",
   "lastOpenFiles": [
     "Unit 4/Ample Reserve Regime.md",
-    "Unit 4/Loanable Funds.md",
-    "Unit 4/Interest.md",
     "Unit 4/Fed.md",
+    "Unit 4/Interest.md",
     "Vocab.md",
-    "Formulas.md",
+    "Unit 4/Pics/Reserve Market Model Graph.png",
     "Unit 4/Money.md",
+    "Unit 4/Pics/Decreasing Administered Interest Rates.png",
+    "Unit 4/Loanable Funds.md",
+    "Formulas.md",
     "Unit 4/Fractional Reserve Banking.md",
     "Unit 4/Banks.md",
     "Unit 4/Financial Asset.md",
     "Unit 4/Pics/Increasing Administered Interest Rates.png",
-    "Unit 4/Pics/Decreasing Administered Interest Rates.png",
-    "Unit 4/Pics/Reserve Market Model Graph.png",
     "Unit 4/Pics/Loanable Funds.png",
     "Unit 4/Pics/Money Demand.png",
     "Unit 3/ADAS.md",
