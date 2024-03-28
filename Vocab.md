@@ -29,4 +29,6 @@
 |          Surplus          | Income > Expenses                                                                                                                   |
 |          Deficit          | Expenses > Income                                                                                                                   |
 |           Debt            | Result of running deficits                                                                                                          |
-|                           |                                                                                                                                     |
+|       Discount Rate       | Interest on an annual basis deducted in advance on a loan                                                                           |
+|    Federal Funds Rate     | Interest rate banks charge each other for loans                                                                                     |
+
