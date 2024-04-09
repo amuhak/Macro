@@ -11,11 +11,9 @@
             "id": "202c0e5bc0ded292",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Unit 4/Loanable Funds.md",
-                "mode": "source",
-                "source": false
+                "file": "Unit 3/Pics/LRAS.png"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Discount Rate",
+                "query": "disc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 4/Loanable Funds.md",
+                "file": "Unit 3/Pics/LRAS.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 4/Loanable Funds.md",
+                "file": "Unit 3/Pics/LRAS.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 4/Loanable Funds.md"
+                "file": "Unit 3/Pics/LRAS.png"
               }
             }
           }
@@ -157,14 +155,16 @@
   },
   "active": "202c0e5bc0ded292",
   "lastOpenFiles": [
-    "Unit 4/Ample Reserve Regime.md",
+    "Unit 3/Pics/ADAS.png",
+    "Unit 3/Pics/LRAS.png",
     "Unit 4/Fed.md",
+    "Unit 4/Loanable Funds.md",
+    "Unit 4/Ample Reserve Regime.md",
     "Unit 4/Interest.md",
     "Vocab.md",
     "Unit 4/Pics/Reserve Market Model Graph.png",
     "Unit 4/Money.md",
     "Unit 4/Pics/Decreasing Administered Interest Rates.png",
-    "Unit 4/Loanable Funds.md",
     "Formulas.md",
     "Unit 4/Fractional Reserve Banking.md",
     "Unit 4/Banks.md",
@@ -184,7 +184,6 @@
     "Automatic Stabilizers-1.png",
     "Unit 3/Pics/Automatic Stabilizers.png",
     "Automatic Stabilizers-1.png",
-    "Unit 3/Pics/Automatic Stabilizers.png",
     "Unit 3/Balanced Budget.md",
     "Unit 3/Aggregate Supply.md",
     "Unit 2/Inflation.md",
