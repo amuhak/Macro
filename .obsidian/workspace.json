@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Unit 3/Pics/LRAS.png"
+                "file": "Unit 4/Pics/Reserve Market Model Graph.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 3/Pics/LRAS.png",
+                "file": "Unit 4/Pics/Reserve Market Model Graph.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 3/Pics/LRAS.png",
+                "file": "Unit 4/Pics/Reserve Market Model Graph.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 3/Pics/LRAS.png"
+                "file": "Unit 4/Pics/Reserve Market Model Graph.png"
               }
             }
           }
@@ -155,6 +155,9 @@
   },
   "active": "202c0e5bc0ded292",
   "lastOpenFiles": [
+    "Unit 4/Pics/Loanable Funds.png",
+    "Unit 4/Pics/Reserve Market Model Graph.png",
+    "Unit 4/Pics/Money Demand.png",
     "Unit 3/Pics/ADAS.png",
     "Unit 3/Pics/LRAS.png",
     "Unit 4/Fed.md",
@@ -162,7 +165,6 @@
     "Unit 4/Ample Reserve Regime.md",
     "Unit 4/Interest.md",
     "Vocab.md",
-    "Unit 4/Pics/Reserve Market Model Graph.png",
     "Unit 4/Money.md",
     "Unit 4/Pics/Decreasing Administered Interest Rates.png",
     "Formulas.md",
@@ -170,8 +172,6 @@
     "Unit 4/Banks.md",
     "Unit 4/Financial Asset.md",
     "Unit 4/Pics/Increasing Administered Interest Rates.png",
-    "Unit 4/Pics/Loanable Funds.png",
-    "Unit 4/Pics/Money Demand.png",
     "Unit 3/ADAS.md",
     "Pdfs/Unit 2/Circular Flow.pdf",
     "Unit 3/Automatic Stabilizers.md",
