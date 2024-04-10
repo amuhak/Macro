@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 5/Untitled.md",
+                "file": "Unit 5/Phillips Curve.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 5/Untitled.md",
+                "file": "Unit 5/Phillips Curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 5/Untitled.md",
+                "file": "Unit 5/Phillips Curve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 5/Untitled.md"
+                "file": "Unit 5/Phillips Curve.md"
               }
             }
           }
@@ -182,8 +181,10 @@
   },
   "active": "f84200e47b219634",
   "lastOpenFiles": [
-    "Formulas.md",
+    "Phillips Curve.png",
     "Unit 5/Untitled.md",
+    "Unit 5/Phillips Curve.md",
+    "Formulas.md",
     "Unit 4/Pics/Loanable Funds.png",
     "Unit 4/Money.md",
     "Unit 5/Untitled",
@@ -224,7 +225,6 @@
     "Unit 1/Determinants.md",
     "Unit 1/Supply and Demand.md",
     "Unit 2/Pics",
-    "Unit 2/Economic.md",
     "Pdfs/Unit 2/Inflation.pdf",
     "Pdfs/Unit 2/Unemployment.pdf"
   ]
