@@ -1,6 +1,6 @@
 $$(M)(V)=(P)(Y)$$
 $M=$ Money Supply $(M_1)$
-$V=$ Velocity (# of times $ changes hand/year)
+$V=$ Velocity (# of times changes hand/year)
 $P=$ Price Level
 $Y =$ Real GDP
 
