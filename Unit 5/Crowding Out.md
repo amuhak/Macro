@@ -1,1 +1,1 @@
-Expansionary Fiscal Policy $\longrightarrow$ More gov spending $\longrightarrow$ Deficit $\longrightarrow$ Borrow Money $\longrightarrow$ Crowding Out 
+Expansionary Fiscal Policy $\longrightarrow$ More gov spending $\longrightarrow$ Deficit $\longrightarrow$ Borrow Money $\longrightarrow$ Crowding Out

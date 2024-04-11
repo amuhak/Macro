@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "69f10de4675a6867",
+        "id": "3a514268145260b0",
         "type": "tabs",
         "children": [
           {
-            "id": "f84200e47b219634",
+            "id": "fc6dfd9d7700fb15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 5/Crowding Out.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c938e2ccd1397039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formulas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb6c66e8c17cb36c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 4/Money.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -110,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 5/Crowding Out.md",
+                "file": "Unit 5/Pics/Phillips Curve.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 5/Crowding Out.md",
+                "file": "Unit 5/Pics/Phillips Curve.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 5/Crowding Out.md"
+                "file": "Unit 5/Pics/Phillips Curve.png"
               }
             }
           }
@@ -180,13 +151,18 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f84200e47b219634",
+  "active": "62021f9b417555b8",
   "lastOpenFiles": [
-    "Unit 5/MV=PY.md",
-    "Unit 5/Crowding Out.md",
-    "Unit 5/Phillips Curve.md",
-    "Unit 5/Pics",
+    "Unit 5/Pics/Long Run Phillips Curve.eps",
+    "Unit 5/Pics/Long Run Phillips Curve.png",
+    "Unit 5/Pics/Phillips Curve - Copy.png",
+    "Unit 5/Pics/Phillips Curve - Copy (2).png",
+    "Unit 5/Long Run Phillips Curve.md",
     "Formulas.md",
+    "Unit 5/Phillips Curve.md",
+    "Unit 5/Crowding Out.md",
+    "Unit 5/MV=PY.md",
+    "Unit 5/Pics",
     "Unit 5/Pics/Phillips Curve.png",
     "Unit 4/Pics/Loanable Funds.png",
     "Unit 4/Money.md",
@@ -204,7 +180,6 @@
     "Unit 4/Fractional Reserve Banking.md",
     "Unit 4/Banks.md",
     "Unit 4/Financial Asset.md",
-    "Unit 4/Pics/Increasing Administered Interest Rates.png",
     "Unit 3/ADAS.md",
     "Pdfs/Unit 2/Circular Flow.pdf",
     "Unit 3/Automatic Stabilizers.md",
@@ -213,8 +188,6 @@
     "Unit 4",
     "Unit 3/Aggregate Demand.md",
     "Unit 3/Multipliers.md",
-    "Unit 3/Pics/Automatic Stabilizers.png",
-    "Automatic Stabilizers-1.png",
     "Unit 3/Balanced Budget.md",
     "Unit 3/Aggregate Supply.md",
     "Unit 2/Inflation.md",
@@ -223,8 +196,6 @@
     "Unit 2/Unemployment.md",
     "Unit 3",
     "Unit 2/Circular Flow.md",
-    "Unit 1/Determinants.md",
-    "Unit 1/Supply and Demand.md",
     "Unit 2/Pics",
     "Pdfs/Unit 2/Inflation.pdf",
     "Pdfs/Unit 2/Unemployment.pdf"
