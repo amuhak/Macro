@@ -1,0 +1,1 @@
+Expansionary Fiscal Policy --> More gov spending --> Deficit --> Borrow Money --> 
