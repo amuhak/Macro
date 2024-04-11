@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 5/Phillips Curve.md",
+                "file": "Unit 5/Crowding Out.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 5/Phillips Curve.md",
+                "file": "Unit 5/Crowding Out.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 5/Phillips Curve.md",
+                "file": "Unit 5/Crowding Out.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 5/Phillips Curve.md"
+                "file": "Unit 5/Crowding Out.md"
               }
             }
           }
@@ -181,13 +181,14 @@
   },
   "active": "f84200e47b219634",
   "lastOpenFiles": [
-    "Phillips Curve.png",
-    "Unit 5/Untitled.md",
+    "Unit 5/MV=PY.md",
+    "Unit 5/Crowding Out.md",
     "Unit 5/Phillips Curve.md",
+    "Unit 5/Pics",
     "Formulas.md",
+    "Unit 5/Pics/Phillips Curve.png",
     "Unit 4/Pics/Loanable Funds.png",
     "Unit 4/Money.md",
-    "Unit 5/Untitled",
     "Unit 5",
     "Unit 4/Pics/Reserve Market Model Graph.png",
     "Unit 4/Pics/Money Demand.png",
@@ -213,7 +214,6 @@
     "Unit 3/Multipliers.md",
     "Unit 3/Pics/Automatic Stabilizers.png",
     "Automatic Stabilizers-1.png",
-    "Unit 3/Pics/Automatic Stabilizers.png",
     "Unit 3/Balanced Budget.md",
     "Unit 3/Aggregate Supply.md",
     "Unit 2/Inflation.md",
