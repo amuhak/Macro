@@ -11,8 +11,12 @@
             "id": "fc6dfd9d7700fb15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unit 5/Long Run Phillips Curve.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 5/Pics/Phillips Curve.png",
+                "file": "Unit 5/Long Run Phillips Curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 5/Pics/Phillips Curve.png",
+                "file": "Unit 5/Long Run Phillips Curve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 5/Pics/Phillips Curve.png"
+                "file": "Unit 5/Long Run Phillips Curve.md"
               }
             }
           }
@@ -151,10 +156,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "62021f9b417555b8",
+  "active": "fc6dfd9d7700fb15",
   "lastOpenFiles": [
-    "Unit 5/Pics/Long Run Phillips Curve.eps",
     "Unit 5/Pics/Long Run Phillips Curve.png",
+    "Unit 5/Pics/Phillips Curve.png",
+    "Unit 5/Pics/Long Run Phillips Curve.eps",
     "Unit 5/Pics/Phillips Curve - Copy.png",
     "Unit 5/Pics/Phillips Curve - Copy (2).png",
     "Unit 5/Long Run Phillips Curve.md",
@@ -163,7 +169,6 @@
     "Unit 5/Crowding Out.md",
     "Unit 5/MV=PY.md",
     "Unit 5/Pics",
-    "Unit 5/Pics/Phillips Curve.png",
     "Unit 4/Pics/Loanable Funds.png",
     "Unit 4/Money.md",
     "Unit 5",
@@ -197,7 +202,6 @@
     "Unit 3",
     "Unit 2/Circular Flow.md",
     "Unit 2/Pics",
-    "Pdfs/Unit 2/Inflation.pdf",
-    "Pdfs/Unit 2/Unemployment.pdf"
+    "Pdfs/Unit 2/Inflation.pdf"
   ]
 }
