@@ -4,53 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3a514268145260b0",
+        "id": "8cabb94b107fa35e",
         "type": "tabs",
         "children": [
           {
-            "id": "fc6dfd9d7700fb15",
+            "id": "ecd7e8806687f3b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 5/Long Run Phillips Curve.md",
+                "file": "Unit 5/Economic Growth.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b21af2231a3f284d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Unit 5/Pics/Long Run Phillips Curve.png"
-              }
-            }
-          },
-          {
-            "id": "51ef5289f3502179",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Unit 5/Pics/Phillips Curve.png"
-              }
-            }
-          },
-          {
-            "id": "592be594a97eb498",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Unit 3/Pics/ADAS.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -117,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 5/Pics/Long Run Phillips Curve.png",
+                "file": "Unit 5/Economic Growth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 5/Pics/Long Run Phillips Curve.png",
+                "file": "Unit 5/Economic Growth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 5/Pics/Long Run Phillips Curve.png"
+                "file": "Unit 5/Economic Growth.md"
               }
             }
           }
@@ -187,32 +155,34 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "b21af2231a3f284d",
+  "active": "ecd7e8806687f3b1",
   "lastOpenFiles": [
-    "Unit 5/Pics/Phillips Curve.png",
+    "Unit 1/pics/Supply and Demand.png",
+    "Unit 1/pics/Consumption Possibilities.png",
+    "Unit 1/pics/Increasing Opportunity Cost.png",
+    "Unit 1/pics/Decreasing Opportunity Cost.png",
+    "Unit 1/pics/Constant Opportunity Cost.png",
+    "Unit 1/pics/PC shifting inwards.png",
+    "Unit 1/pics/PPC shifting outward.png",
+    "Unit 5/Economic Growth.md",
     "Unit 3/Pics/ADAS.png",
+    "Unit 5/Pics/Phillips Curve.png",
     "Unit 5/Pics/Long Run Phillips Curve.png",
     "Unit 5/Long Run Phillips Curve.md",
     "Unit 5/Pics/Long Run Phillips Curve.eps",
     "Unit 5/Pics/Phillips Curve - Copy.png",
-    "Unit 5/Pics/Phillips Curve - Copy (2).png",
     "Formulas.md",
     "Unit 5/Phillips Curve.md",
     "Unit 5/Crowding Out.md",
     "Unit 5/MV=PY.md",
     "Unit 5/Pics",
-    "Unit 4/Pics/Loanable Funds.png",
     "Unit 4/Money.md",
     "Unit 5",
-    "Unit 4/Pics/Reserve Market Model Graph.png",
-    "Unit 4/Pics/Money Demand.png",
-    "Unit 3/Pics/LRAS.png",
     "Unit 4/Fed.md",
     "Unit 4/Loanable Funds.md",
     "Unit 4/Ample Reserve Regime.md",
     "Unit 4/Interest.md",
     "Vocab.md",
-    "Unit 4/Pics/Decreasing Administered Interest Rates.png",
     "Unit 4/Fractional Reserve Banking.md",
     "Unit 4/Banks.md",
     "Unit 4/Financial Asset.md",
@@ -231,7 +201,6 @@
     "Unit 3/Pics",
     "Unit 2/Unemployment.md",
     "Unit 3",
-    "Unit 2/Circular Flow.md",
     "Unit 2/Pics",
     "Pdfs/Unit 2/Inflation.pdf"
   ]
