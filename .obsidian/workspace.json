@@ -8,26 +8,82 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecd7e8806687f3b1",
+            "id": "a9d703f884957ea4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Unit 5/Economic Growth.md",
-                "mode": "source",
-                "source": false
+                "file": "Unit 5/Pics/Phillips Curve.png"
               }
             }
           },
           {
-            "id": "795fc22bbd772097",
+            "id": "5f74f766b1eb4e98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Vocab.md",
-                "mode": "source",
-                "source": false
+                "file": "Unit 5/Pics/Long Run Phillips Curve.png"
+              }
+            }
+          },
+          {
+            "id": "07dbe613d2aa448b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Unit 4/Pics/Money Demand.png"
+              }
+            }
+          },
+          {
+            "id": "37fcb0b646e2fee6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Unit 4/Pics/Loanable Funds.png"
+              }
+            }
+          },
+          {
+            "id": "8776e990fdebe33d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Unit 4/Pics/Reserve Market Model Graph.png"
+              }
+            }
+          },
+          {
+            "id": "0e71658b9a83793b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Unit 4/Pics/Decreasing Administered Interest Rates.png"
+              }
+            }
+          },
+          {
+            "id": "5b436269fdfac4a2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Unit 4/Pics/Increasing Administered Interest Rates.png"
+              }
+            }
+          },
+          {
+            "id": "ebe43fb3a9c97d84",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Unit 3/Pics/LRAS.png"
               }
             }
           }
@@ -77,11 +133,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -97,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 5/Economic Growth.md",
+                "file": "Unit 5/Pics/Phillips Curve.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 5/Economic Growth.md",
+                "file": "Unit 5/Pics/Phillips Curve.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 5/Economic Growth.md"
+                "file": "Unit 5/Pics/Phillips Curve.png"
               }
             }
           }
@@ -167,20 +225,21 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "ecd7e8806687f3b1",
+  "active": "a9d703f884957ea4",
   "lastOpenFiles": [
-    "Vocab.md",
+    "Unit 3/Pics/LRAS.png",
+    "Unit 4/Pics/Increasing Administered Interest Rates.png",
+    "Unit 3/Pics/Aggregate Demand Curve.png",
+    "Unit 4/Pics/Decreasing Administered Interest Rates.png",
+    "Unit 4/Pics/Reserve Market Model Graph.png",
+    "Unit 4/Pics/Loanable Funds.png",
+    "Unit 4/Pics/Money Demand.png",
+    "Unit 5/Pics/Long Run Phillips Curve.png",
+    "Unit 5/Pics/Phillips Curve.png",
     "Unit 5/Economic Growth.md",
+    "Vocab.md",
     "Unit 1/pics/Supply and Demand.png",
     "Unit 1/pics/Consumption Possibilities.png",
-    "Unit 1/pics/Increasing Opportunity Cost.png",
-    "Unit 1/pics/Decreasing Opportunity Cost.png",
-    "Unit 1/pics/Constant Opportunity Cost.png",
-    "Unit 1/pics/PC shifting inwards.png",
-    "Unit 1/pics/PPC shifting outward.png",
-    "Unit 3/Pics/ADAS.png",
-    "Unit 5/Pics/Phillips Curve.png",
-    "Unit 5/Pics/Long Run Phillips Curve.png",
     "Unit 5/Long Run Phillips Curve.md",
     "Unit 5/Pics/Long Run Phillips Curve.eps",
     "Formulas.md",
