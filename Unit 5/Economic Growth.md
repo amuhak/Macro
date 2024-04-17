@@ -14,7 +14,9 @@ More tax cuts --> more saving --> more loanable funds --> more investment fundin
 Makes it easier to run businesses. 
 
 $$Y=A\times K\times L$$
+
 | Letter | Meaning |
-| -- | -- |
-| A | Tech | 
-| K | Capital
+| :----: | :-----: |
+|   A    |  Tech   |
+|   K    | Capital |
+|   L    |  Labor  |
