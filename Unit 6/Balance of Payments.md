@@ -9,4 +9,6 @@ Purchase of:
 - Stocks and Bonds
 Inflow into financial account increases loanable funds. 
 $$CA+FA=0$$
-A  Current Account
+**Credit**: Money coming into an account.
+**Debit**: Money going out of an account.
+All transactions are both. 
