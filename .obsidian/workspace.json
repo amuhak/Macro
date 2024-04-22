@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 6/Day 1.md",
+                "file": "Unit 6/Balance of Payments.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 6/Day 1.md",
+                "file": "Unit 6/Balance of Payments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 6/Day 1.md",
+                "file": "Unit 6/Balance of Payments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 6/Day 1.md"
+                "file": "Unit 6/Balance of Payments.md"
               }
             }
           }
@@ -158,6 +159,7 @@
   "active": "450c57a0666d1e34",
   "lastOpenFiles": [
     "Unit 6/Day 1.md",
+    "Unit 6/Balance of Payments.md",
     "Unit 6",
     "Unit 3/Pics/LRAS.png",
     "Unit 4/Pics/Increasing Administered Interest Rates.png",
@@ -200,7 +202,6 @@
     "Unit 2/Inflation.md",
     "Unit 2/GDP.md",
     "Unit 3/Pics",
-    "Unit 2/Unemployment.md",
     "Unit 3",
     "Unit 2/Pics"
   ]
