@@ -16,5 +16,5 @@ If Americans make more money, the supply for the dollar increases (Dollar Deprec
 If Americans face inflation, Americans will want more European goods. The supply for the dollar increases (Dollar Depreciates). The demand for the Euro increases (Euro Appreciates).
 The Europeans will supply less Euros. So the supply for Euros decreases. 
 ## Relative Interest Rate
-If American bonds increase in interest rate. 
-The Europeans will demand more Do
+If American bonds increase in interest rate. The Americans will supply less Dollars and hence there will be a lower demand for Euros.
+The Europeans will demand more Dollar so the will supply more Euros.
