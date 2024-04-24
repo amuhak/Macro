@@ -1,0 +1,1 @@
+Strong/Weak Currencies.
