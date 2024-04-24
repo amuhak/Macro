@@ -11,4 +11,6 @@ If you demand $x$ you must supply $y$
 ## Change in Tastes
 If Europeans want American goods. The demand for dollars increases (Dollar Appreciates)/ The Supply of Euros also increases (Euro Depreciates).
 ## Relative Income Change
-If Americans make more money, the 
+If Americans make more money, the supply for the dollar increases (Dollar Depreciates). The demand for the Euro increases (Euro Appreciates).
+## Relative Price Changes
+If Americans face inflation, Americans will want more European goods. The supply for the dollar increases (Dollar Depreciates). The demand for the Euro increases (Euro Appreciates).
