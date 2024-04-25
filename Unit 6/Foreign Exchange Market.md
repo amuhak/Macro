@@ -1,4 +1,4 @@
-Strong/Weak Currencies.
+deStrong/Weak Currencies.
 ## Weak
 - Good for exporters
 ## Strong
@@ -18,3 +18,7 @@ The Europeans will supply less Euros. So the supply for Euros decreases.
 ## Relative Interest Rate
 If American bonds increase in interest rate. The Americans will supply less Dollars and hence there will be a lower demand for Euros.
 The Europeans will demand more Dollar so the will supply more Euros.
+
+Capital Outflow: Money leaving the country. The increases the supply of the currency. 
+
+Flexible Exchange Rates balance trade. More -->  
