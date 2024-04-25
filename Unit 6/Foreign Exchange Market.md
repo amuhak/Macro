@@ -21,4 +21,6 @@ The Europeans will demand more Dollar so the will supply more Euros.
 
 Capital Outflow: Money leaving the country. The increases the supply of the currency. 
 
-Flexible Exchange Rates balance trade. More -->  
+Flexible Exchange Rates balance trade. More Imports --> Depreciates --> Less imports --> more exports --> appreciation.
+
+Appreciation leads to less exports. 
