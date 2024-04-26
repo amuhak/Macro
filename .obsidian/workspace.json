@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "695fe1fe53e97460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 6/Trade Barriers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 6/Foreign Exchange Market.md",
+                "file": "Unit 6/Trade Barriers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 6/Foreign Exchange Market.md",
+                "file": "Unit 6/Trade Barriers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 6/Foreign Exchange Market.md"
+                "file": "Unit 6/Trade Barriers.md"
               }
             }
           }
@@ -155,9 +168,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "450c57a0666d1e34",
+  "active": "695fe1fe53e97460",
   "lastOpenFiles": [
     "Unit 6/Foreign Exchange Market.md",
+    "Unit 6/Trade Barriers.md",
     "Unit 6/Frq.md",
     "Unit 6/Pics",
     "Unit 6/Pics/Foreign Exchange Market Graph.png",
@@ -200,7 +214,6 @@
     "Unit 3/Aggregate Demand.md",
     "Unit 3/Multipliers.md",
     "Unit 3/Balanced Budget.md",
-    "Unit 3/Aggregate Supply.md",
     "Unit 3/Pics",
     "Unit 3"
   ]
