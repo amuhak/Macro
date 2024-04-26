@@ -9,3 +9,5 @@ Trade Agreements (trade blocs)
 ## Tariffs
 - Revenue tariffs: Only for the money.
 - Protective tariffs: To protect domestic industries.
+
+![[Trade Barriers.png]]
