@@ -1,4 +1,4 @@
-deStrong/Weak Currencies.
+Strong/Weak Currencies.
 ## Weak
 - Good for exporters
 ## Strong
