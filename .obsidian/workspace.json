@@ -11,11 +11,9 @@
             "id": "450c57a0666d1e34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Unit 4/Money.md",
-                "mode": "source",
-                "source": false
+                "file": "Unit 2/Pics/Circular Flow-1.png"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "monetary base",
+                "query": "business",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +63,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 4/Money.md",
+                "file": "Unit 2/Pics/Circular Flow-1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 4/Money.md",
+                "file": "Unit 2/Pics/Circular Flow-1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 4/Money.md"
+                "file": "Unit 2/Pics/Circular Flow-1.png"
               }
             }
           }
@@ -158,23 +156,25 @@
   },
   "active": "450c57a0666d1e34",
   "lastOpenFiles": [
-    "Unit 6/Foreign Exchange Market.md",
+    "Unit 1/pics/Consumption Possibilities.png",
+    "Unit 1/pics/Increasing Opportunity Cost.png",
+    "Unit 1/pics/Decreasing Opportunity Cost.png",
     "Unit 1/pics/Constant Opportunity Cost.png",
     "Unit 1/pics/PC shifting inwards.png",
     "Unit 1/pics/PPC shifting outward.png",
+    "Unit 3/Pics/Automatic Stabilizers.png",
+    "Unit 5/Pics/Phillips Curve.png",
+    "Unit 5/Pics/Long Run Phillips Curve.png",
+    "Unit 6/Pics/Foreign Exchange Market Graph.png",
+    "Unit 4/Pics/Increasing Administered Interest Rates.png",
+    "Unit 4/Money.md",
+    "Unit 6/Foreign Exchange Market.md",
     "Unit 6/Trade Barriers.md",
     "Unit 6/Frq.md",
-    "Trade Barriers.png",
     "Unit 6/Pics",
-    "Unit 6/Pics/Foreign Exchange Market Graph.png",
     "Unit 6/Balance of Payments.md",
     "Unit 6/Day 1.md",
     "Unit 6",
-    "Unit 3/Pics/LRAS.png",
-    "Unit 4/Pics/Increasing Administered Interest Rates.png",
-    "Unit 5/Pics/Long Run Phillips Curve.png",
-    "Unit 5/Pics/Phillips Curve.png",
-    "Unit 4/Pics/Decreasing Administered Interest Rates.png",
     "Unit 5/Economic Growth.md",
     "Vocab.md",
     "Unit 5/Long Run Phillips Curve.md",
@@ -184,7 +184,6 @@
     "Unit 5/Crowding Out.md",
     "Unit 5/MV=PY.md",
     "Unit 5/Pics",
-    "Unit 4/Money.md",
     "Unit 5",
     "Unit 4/Fed.md",
     "Unit 4/Loanable Funds.md",
