@@ -11,9 +11,11 @@
             "id": "6581fda47d1580b2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Pdfs/Formulas.pdf"
+                "file": "Unit 4/Ample Reserve Regime.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pdfs/Formulas.pdf",
+                "file": "Unit 4/Ample Reserve Regime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pdfs/Formulas.pdf",
+                "file": "Unit 4/Ample Reserve Regime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pdfs/Formulas.pdf"
+                "file": "Unit 4/Ample Reserve Regime.md"
               }
             }
           }
@@ -155,8 +157,17 @@
   },
   "active": "6581fda47d1580b2",
   "lastOpenFiles": [
-    "Formulas.md",
+    "Unit 4/Financial Asset.md",
+    "Unit 4/Banks.md",
+    "Unit 4/Fractional Reserve Banking.md",
+    "Unit 4/Fed.md",
+    "Unit 4/Interest.md",
+    "Unit 4/Loanable Funds.md",
+    "Unit 4/Ample Reserve Regime.md",
+    "Unit 3/Multipliers.md",
+    "Unit 3/Aggregate Demand.md",
     "Pdfs/Formulas.pdf",
+    "Formulas.md",
     "Unit 2/Pics/Circular Flow-1.png",
     "Unit 1/pics/Consumption Possibilities.png",
     "Unit 1/pics/Increasing Opportunity Cost.png",
@@ -184,21 +195,12 @@
     "Unit 5/MV=PY.md",
     "Unit 5/Pics",
     "Unit 5",
-    "Unit 4/Fed.md",
-    "Unit 4/Loanable Funds.md",
-    "Unit 4/Ample Reserve Regime.md",
-    "Unit 4/Interest.md",
-    "Unit 4/Fractional Reserve Banking.md",
-    "Unit 4/Banks.md",
-    "Unit 4/Financial Asset.md",
     "Unit 3/ADAS.md",
     "Pdfs/Unit 2/Circular Flow.pdf",
     "Unit 3/Automatic Stabilizers.md",
     "Unit 3/Fiscal Policy.md",
     "Unit 4/Pics",
     "Unit 4",
-    "Unit 3/Aggregate Demand.md",
-    "Unit 3/Multipliers.md",
     "Unit 3/Pics"
   ]
 }
