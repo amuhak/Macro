@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ccb3126b7a4f446d",
+        "id": "aba421d7e5ccda42",
         "type": "tabs",
         "children": [
           {
-            "id": "450c57a0666d1e34",
+            "id": "6581fda47d1580b2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Unit 2/Pics/Circular Flow-1.png"
+                "file": "Pdfs/Formulas.pdf"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1f6fd3f8dc30172",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 2/Pics/Circular Flow-1.png",
+                "file": "Pdfs/Formulas.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 2/Pics/Circular Flow-1.png",
+                "file": "Pdfs/Formulas.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 2/Pics/Circular Flow-1.png"
+                "file": "Pdfs/Formulas.pdf"
               }
             }
           }
@@ -154,8 +153,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "450c57a0666d1e34",
+  "active": "6581fda47d1580b2",
   "lastOpenFiles": [
+    "Formulas.md",
+    "Pdfs/Formulas.pdf",
+    "Unit 2/Pics/Circular Flow-1.png",
     "Unit 1/pics/Consumption Possibilities.png",
     "Unit 1/pics/Increasing Opportunity Cost.png",
     "Unit 1/pics/Decreasing Opportunity Cost.png",
@@ -165,8 +167,6 @@
     "Unit 3/Pics/Automatic Stabilizers.png",
     "Unit 5/Pics/Phillips Curve.png",
     "Unit 5/Pics/Long Run Phillips Curve.png",
-    "Unit 6/Pics/Foreign Exchange Market Graph.png",
-    "Unit 4/Pics/Increasing Administered Interest Rates.png",
     "Unit 4/Money.md",
     "Unit 6/Foreign Exchange Market.md",
     "Unit 6/Trade Barriers.md",
@@ -179,7 +179,6 @@
     "Vocab.md",
     "Unit 5/Long Run Phillips Curve.md",
     "Unit 5/Pics/Long Run Phillips Curve.eps",
-    "Formulas.md",
     "Unit 5/Phillips Curve.md",
     "Unit 5/Crowding Out.md",
     "Unit 5/MV=PY.md",
@@ -200,7 +199,6 @@
     "Unit 4",
     "Unit 3/Aggregate Demand.md",
     "Unit 3/Multipliers.md",
-    "Unit 3/Pics",
-    "Unit 3"
+    "Unit 3/Pics"
   ]
 }
