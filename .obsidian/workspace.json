@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c22d140ebc1128db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +153,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "c22d140ebc1128db",
+  "active": "62021f9b417555b8",
   "lastOpenFiles": [
     "Unit 4/Ample Reserve Regime.md",
     "Untitled.md",
